@@ -1,0 +1,10 @@
+Question: Les remises trimestrielles des états quantitatifs S2 sont elles obligatoires?
+
+Réponse : L'article 35 de la directive Solvabilité II,  prévoit la possibilité, pour les autorités de contrôle, d’exempter certains organismes de remises trimestrielles lorsque :
+a) la fourniture de ces informations représenterait une charge disproportionnée compte tenu de la nature, de l'ampleur et de la complexité des risques inhérents à l'activité de l'entreprise;
+b) ces informations sont communiquées au moins une fois par an.
+La directive précise toutefois que la population exemptée ne peut dépasser plus de 20% de part de marché.
+Une instruction de l’ACPR  fixe, au regard de la taille de bilan de l’organisme ou du groupe et de son activité, les seuils d’exemption de remise d’information trimestrielle suivants :
+Seuil vie : 8 milliards d’euros de bilan ;
+Seuil non vie : 0,5 milliard d’euros de bilan ;
+Seuil réassurance : 4 milliards d’euros de bilan.

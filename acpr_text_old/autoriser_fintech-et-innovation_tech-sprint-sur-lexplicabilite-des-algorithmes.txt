@@ -1,0 +1,365 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Fintech et Innovation
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Tech Sprint sur l'explicabilité des algorithmes                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Premier challenge organisé par le Pôle Fintech-Innovation de l'ACPR avec les acteurs de l’écosystème innovant dans le secteur financier, le Tech Sprint sur l’explicabilité est un rendez-vous incontournable pour les professionnels et les étudiants qui veulent se mettre au défi de décrypter des algorithmes “boîtes noires”.
+L’idée est simple : des modèles prédictifs de risque de crédit ont été développés par des établissements de crédit de la Place, le challenge est de les expliquer.
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  À propos
+Inscriptions
+Programme
+Ressources
+Résultats
+
+  
+    
+    
+
+SujetLe Tech Sprint est une démarche innovante. Des établissements de crédit volontaires, partenaires de l’ACPR qui se place en position de facilitateur, ont conçu et entraîné des modèles prédictifs pour déterminer le risque de crédit à la consommation.Les participants du Tech Sprint (fintechs, banques, chercheurs ou acteurs du secteur financier, étudiants en data science, etc) auront pour défi d’expliquer le comportement et la nature de ces modèles.L’explicabilité est essentielle pour la confiance dans les dispositifs d’intelligence artificielle car elle permet de mieux comprendre le résultat de l’algorithme mais aussi facilite la validation et la surveillance des modèles.Les objectifs de ce Tech Sprint sont multiples:Éclairer sur les enjeux réglementaires, notamment en termes de maîtrise des risques, de gouvernance et de protection de la clientèle,Communiquer, à partir d’un cas d’usage, sur les méthodes et niveaux  d’explicabilité qu’il est possible de fournir tant pour un public d’auditeurs que pour des experts métiers ou la clientèle,Promouvoir les échanges et la collaboration entre acteurs du secteur sous l’égide de l’ACPR,Mettre en valeur le savoir-faire français en matière de data science. Format2 sessions (l’une pour les professionnels, l’autre pour les étudiants) d’une journée et demi :50 participants maximum par session par équipe de 2 à 5 personnes (avec un maximum de 12 équipes)Encadrement : par des data scientists et des juristes du pôle Fintech-Innovation de l’ACPRNetworking : entre participants, partenaires et invités (les sessions de présentation des résultats seront ouvertes à un public plus large, en fonction des règles sanitaires en vigueur).Pour la session réservée aux étudiants :             ○ possibilité de discuter avec les experts en data et en innovation de la Banque de France             ○ Carte cadeau de 150€ pour chacune des personnes composant les 3 équipes gagnantes Quand ?  Tech Sprint pour les professionnelsMercredi 30 juin 9h – 18hJeudi 1er juillet 14h – 17hTélécharger le flyer de l'événement Tech Sprint pour les étudiantsJeudi 8 juillet 9h – 18hVendredi 9 juillet 14h – 17hTélécharger le flyer de l'événementOù ?Banque de France31 rue Croix-des-Petits-Champs75001 ParisVoir sur la carte 
+
+
+
+  Les inscriptions sont closesSi vous souhaitez assister à la présentation des résultats le 1er juillet ou le 9 juillet 2021, merci de nous contacter à l’adresse suivante : techsprint2021@acpr.banque-france.fr
+
+  
+
+
+
+  
+    
+    
+    Professionnels  
+  
+    Modalités d’inscription pour les professionnelsL’inscription se fait via le formulaire disponible ci-dessous à renvoyer à l’adresse suivante : techsprint2021@acpr.banque-france.frIl est possible de candidater par équipe ou individuellement. Le nombre de candidats par équipe doit être compris entre 2 et 5.Les candidatures individuelles sont examinées par le pôle Fintech-Innovation en prenant en compte l’expertise des candidats ainsi que d’éventuelles complémentarités pour constituer une équipe d’analystes.L’inscription et la participation au Tech Sprint sont gratuites.La clôture des inscriptions aura lieu le 13 juin 2021 à 23h59.Les candidats sont informés au plus tard le 25 juin 2021 de la suite donnée à leur demande de participation.
+  
+  
+    
+  
+  
+    
+
+
+  
+    
+    
+  
+
+            
+              
+      
+  
+          
+                  ACPR
+                      
+    
+        Formulaire d’inscription au Tech Sprint pour les professionnels
+    
+    
+          
+        Publié le 01/06/2021
+FR
+Word (88.01 Ko)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+  
+
+  
+
+
+
+  
+    
+    
+    Etudiants  
+  
+    Modalités d’inscription pour les étudiantsL’inscription se fait via le formulaire disponible ci-dessous à renvoyer à l’adresse suivante : techsprint2021@acpr.banque-france.frSeules les candidatures par équipe sont possibles. Le nombre de candidats par équipe doit être compris entre 2 et 5.Utilisez votre adresse e-mail fournie par votre école ou votre université.L’inscription et la participation au Tech Sprint sont gratuites.La clôture des inscriptions aura lieu le 13 juin 2021 à 23h59.Les candidats sont informés au plus tard le 25 juin 2021 de la suite donnée à leur demande de participation.
+  
+  
+    
+  
+  
+    
+
+
+  
+    
+    
+  
+
+            
+              
+      
+  
+          
+                  ACPR
+                      
+    
+        Formulaire d’inscription au Tech Sprint pour les étudiants
+    
+    
+          
+        Publié le 27/05/2021
+FR
+Word (85.98 Ko)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+  
+
+  
+
+
+
+
+
+  
+    
+    
+
+Premier jour : le « Défi d’explicabilité »Le mercredi 30 juin pour les professionnels et le jeudi 8 juillet pour les étudiants, de 9h à 18h.8h30 : Accueil9h00 : Rappel des objectifs9h15 : Début du travail en équipe12h00 : Pause déjeuner13h00 : Point d’avancement des travaux - Quizz (Intermède ludique sur le thème de la Data)18h max : Remise des travaux avant le cocktail sur la terrasse végétalisée de la Banque de France Deuxième jour : restitution des travaux et annonce des résultatsLe jeudi 1er juillet après-midi pour les professionnels et le vendredi 9 juillet après-midi pour les étudiants, de 14h à 18h.14h00 : Accueil14h30 : Mot d’introductionEntre 14h40 et 16h00 : Restitution des travaux devant le jury, les concepteurs des modèles, les autres équipes ainsi que les invités (journalistes, membres du Forum Fintech, acteurs du secteur financier)16h00 : Mot des concepteurs sur leurs modèles16h45 : Délibération du jury             Pour les étudiants : stands avec des experts en data et en innovation de la Banque de France17h30 : Annonce des résultats Avec quoi dois-je venir ?Apportez votre ordinateur portable, votre CNI et votre bonne humeur !N’apportez ni sandwich ni boisson, nous avons tout prévu pour que vous ne manquiez de rien !Pour les étudiants, n’oubliez pas votre CV.
+
+
+
+  Les documents disponibles ci-dessous fournissent plus d’informations sur le déroulement du Tech Sprint :Le règlement définit les modalités de participation et d’organisation du Tech Sprint.Le document de réflexion de l’ACPR sur la gouvernance de l’IA dans le secteur financier publié en juin 2020 qui place l’explicabilité comme pilier du développement de l’IA et définit plusieurs niveaux d’explicabilité.Le Guide de l’Analyste destiné aux participants contient autant d’informations que possible afin de se préparer au Tech Sprint du 30 juin : les objectifs et attendus, ainsi qu’une liste de références à consulter optionnellement avant ou durant le défi.
+
+  
+    
+  
+  
+    
+
+
+  
+    
+    
+  
+
+  
+  
+          
+                  ACPR
+                      
+    
+        Règlement
+    
+    
+          
+        Publié le 01/06/2021
+FR
+PDF (600.47 Ko)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+  
+    
+    
+  
+
+  
+  
+          
+                  ACPR
+                          Publications des documents de réflexion
+              
+    
+    
+        Gouvernance des algorithmes d’intelligence artificielle dans le secteur financier
+    
+    
+    
+                  
+        Publié le 15/06/2020
+FR
+PDF (2.3 Mo)
+      
+    
+    Consulter Consulter en ligne
+Téléchargement
+  
+
+
+
+  
+    
+
+
+  
+    
+    
+  
+
+  
+  
+          
+                  ACPR
+                      
+    
+        Guide de l’Analyste 
+    
+    
+          
+        Publié le 16/06/2021
+FR
+PDF (1.46 Mo)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+  
+
+
+
+  
+
+
+  
+    
+    
+    Première édition du Tech Sprint pour les professionnels (30 juin – 1er juillet)  
+  
+    Ce premier Tech Sprint de l’ACPR avait pour objectif d’apporter des éclairages sur les enjeux règlementaires soulevés par l’IA en termes de maîtrise des risques, de gouvernance et de protection de la clientèle. Il a permis, à partir d’un cas d’usage, d’expliciter concrètement les méthodes et les niveaux d’« explicabilité » qu’il est possible de fournir selon que l’on s’adresse à la clientèle, à des experts métiers ou à des auditeurs. L’« explicabilité » est une notion clé, au cœur des travaux de l’Union européenne sur la future réglementation de l’IA. Elle contribue à la mise en place d’une IA de confiance. Concrètement, des établissements de crédit (BPCE, Crédit Mutuel Arkéa, Société Générale et Younited Crédit) ont, sur la base du volontariat, conçu des modèles prédictifs pour identifier le risque de crédit à la consommation. Charge ensuite aux 12 équipes d’analystes sélectionnées, de les expliquer en interrogeant ces « boîtes noires » et en développant des outils d’explication au cours d’une journée de « hackathon », le 30 juin dernier. Les solutions ont été présentées le lendemain 1er juillet à un jury composé d’experts de l’ACPR et de la Banque de France. Une seconde édition, ouverte aux étudiants, aura lieu le jeudi 8 et vendredi 9 juillet. Les travaux présentés par les différentes équipes à l’issue du Tech Sprint ont été salués pour leur qualité : ils illustrent le réel savoir-faire français en matière de data science. Parmi eux, le jury a récompensé les solutions proposées par les équipes Quantmetry-Stellantis, Zelros et BourbakIA (équipe rassemblant des data scientists de plusieurs entreprises : AIvidence, Untie Nots, Quinten Finance, Soyhuce, H2O.ai). Consulter le communiqué de presse  
+
+
+
+  
+    
+  
+  
+    
+
+
+  
+    
+    
+  
+
+            
+        
+      
+  
+          
+                  ACPR
+                      
+    
+        Rapport de synthèse : Tech Sprint sur l’explicabilité des algorithmes d’intelligence artificielle
+    
+    
+          
+        Publié le 05/01/2022
+FR
+PDF (1.17 Mo)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+    
+
+
+  
+    
+    
+  
+
+            
+        
+      
+  
+          
+                  ACPR
+                      
+    
+        Summary report: ACPR Tech Sprint on the explainability of artificial intelligence
+    
+    
+          
+        Publié le 05/01/2022
+EN
+PDF (1.02 Mo)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+  
+
+
+
+
+
+
+  
+    
+    Mis à jour le : 25/01/2024 11:20
+  
+  
+  
+
+                        
+                      
+                                            

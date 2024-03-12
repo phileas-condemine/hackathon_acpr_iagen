@@ -1,0 +1,66 @@
+
+                      
+
+                                                  
+                            Vous êtes iciInternational                                                                                              
+Assurances
+Réglementation européenne
+Solvabilité II
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Modalité nationale de présentation de certaines informations à remettre au superviseur                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+        PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  
+
+
+
+  
+    
+    
+    Identification des organismes d’assurance dans leur reporting quantitatif Solvabilité II  
+  
+    Dans l’instruction 2015-I-12, l’ACPR demande aux organismes d’assurance d’obtenir un identifiant d’entité juridique (LEI pour Legal Entity Identifier). Les organismes assujettis à Solvabilité II doivent l’utiliser dans leur reporting quantitatif SII à l’ACPR.Ainsi, en application de la notice descriptive ("Log") de l’état de reporting S.01.02 ("Informations de base"), l’identifiant de l’organisme qui doit être communiqué dans cet état, au niveau des champs R0020/C0010 ("Code d’identification de l’entreprise/du groupe") et R0030/C0010 ("Type de code d’identification de l’entreprise/du groupe"), est son LEI, dans une seule donnée, respectant le format suivant : "LEI/XXXXXXXXXXXXXXXXXXXX" (le LEI étant composé de 20 caractères).En revanche, l’identifiant qui doit être utilisé par les organismes dans l’entête OneGate du reporting SII et dans l’élément xbrli:identifier des contextes reste inchangé. Il doit correspondre au code Système Informatique du Répertoire des ENtreprises (SIREN).  
+
+
+
+  
+    
+    
+    Options nationales de reporting SII  
+  
+    Le Règlement d'exécution (UE) 2015/2450 sur le reporting ainsi que le Règlement d'exécution (UE) 2015/2452 sur la publication précisent, concernant différentes informations à remettre, que les superviseurs nationaux peuvent opter pour des modalités de remises différentes de la règle générale édictée. 9 options ont été identifiées par l’ACPR :Choix de la monnaie de remise du reporting SIIChoix du taux de change utiliséChoix de la valorisation par exercice de survenance ou de souscriptionChoix de l’amplitude des fourchettes de répartition des pertes selon le profil de risqueChoix de l’amplitude des fourchettes de sommes assurées pour la distribution en non-vie des risques de souscription en non-vie par somme assuréeChoix des lignes d’activité à communiquer pour les risques de souscription en non-vie par somme assuréeChoix de la communication des informations sur les rentes découlant d’engagements d’assurance non-vie et sur les sinistres en non-vie par monnaieChoix du nombre de sinistres déclarés pour l’évolution de la répartition des sinistres déclarés mais non réglés (RBNS en anglais)Règles de communication des notations externes dans le reporting SII L’ACPR précise ses positions sur chaque option dans la note Positions de l’ACPR sur les options nationales de reporting Solvabilité II.  
+
+
+
+  
+    
+    Mis à jour le : 07/06/2018 15:09
+  
+  
+  
+
+                        
+                      
+                                            

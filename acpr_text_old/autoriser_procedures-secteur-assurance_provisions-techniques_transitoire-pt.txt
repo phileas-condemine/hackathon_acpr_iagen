@@ -1,0 +1,46 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Procédures secteur assurance
+Provisions techniques
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Transitoire PT                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Utilisation de la mesure transitoire sur les "provisions techniques"
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Présentation de la mesureLe régime prudentiel Solvabilité II prévoit des mesures transitoires permettant aux organismes d’assurance et de réassurance de disposer d’un temps d’adaptation avant d’appliquer pleinement les nouvelles dispositions et d’en lisser dans le temps les impacts financiers. Ces mesures sont soumises à autorisation préalable de l’Autorité de contrôle.La mesure transitoire portant sur les provisions techniques permet d’étaler sur 16 ans l’impact du passage d’un calcul de provisions techniques aux normes "Solvabilité I" à un calcul "Solvabilité II".Elle est basée sur la différence entre les provisions techniques "Solvabilité II", incluant la meilleure estimation des passifs et la marge pour risque, et les provisions techniques "Solvabilité I" (incluant notamment les provisions mathématiques, la PTS et la PTSC pour les branches 26, la provision pour participation aux bénéfices, la provision pour garantie plancher, les provisions globales de gestion et la provision pour aléa financier). La déduction transitoire, produit de cette différence et d’un coefficient décroissant linéairement avec le temps, est alors retranchée aux provisions techniques telles qu’elles sont calculées conformément au dispositif prudentiel Solvabilité II. En contrepartie, elle diminue la situation nette d’impôts différés actifs.La mesure transitoire peut être appliquée par groupe homogène de risques. Il est donc envisageable de l’appliquer uniquement sur une partie du portefeuille ou sur une ligne d’activité. Cette mesure transitoire, sur un périmètre donné, n’est pas compatible avec l’application de la mesure transitoire sur les taux, mais est compatible avec l’utilisation de la correction pour volatilité et de l’ajustement égalisateur.Les montants des provisions techniques entrant dans le calcul de la déduction transitoire peuvent être recalculés :tous les deux ans, sur autorisation de l’ACPR,à tout moment en cas de changement significatif du profil de risque du portefeuille, sur autorisation ou à l’initiative de l’ACPR.L’objet de la mesure transitoire étant de lisser l’éventuel surcoût global occasionné par le passage à Solvabilité II, l’ACPR est habilitée à plafonner l’effet de la mesure transitoire de façon à ce que les exigences quantitatives (c’est-à-dire la somme des provisions techniques au bilan et de l’exigence de capital) découlant du nouveau régime soient au moins égales à celles prévalant sous Solvabilité I. Les organismes doivent donc veiller à tenir compte de ce plafond dans leur calcul.L’utilisation et l’impact de la mesure transitoire doivent figurer dans le rapport sur la solvabilité et la situation financière.En outre, les organismes faisant usage de cette mesure transitoire et qui ne couvriraient pas leur exigence de capital sans elle doivent soumettre à l’ACPR, un plan de mise en œuvre progressive précisant comment ils comptent se mettre en conformité avec le nouveau régime à la fin de la période transitoire. Références réglementairesLa mesure transitoire sur les provisions techniques est définie aux articles L. 351-5 et R. 351-17 du code des assurances, applicables aux organismes relevant des trois codes, qui transposent l'article 308 quinquies de la Directive 2009/138/CE, dite "Solvabilité II".L’instruction de l’ACPR n° 2015-I-06 relative aux demandes d’approbation pour l’utilisation de la mesure transitoire sur les provisions techniques ainsi que ses annexes précisent les modalités de cette autorisation. Elles sont disponibles aux liens suivants :Instruction n° 2015-I-06 relative aux demandes d’approbation pour l’utilisation de la mesure transitoire sur les provisions techniques– Annexe 1 : Éléments constitutifs du dossier de demande d’approbation pour l’utilisation de la mesure transitoire sur les provisions techniques– Annexe 2 : État détaillant le calcul de la mesure transitoire sur les provisions techniques Contenu du dossier de candidatureLa liste complète des documents à remettre est fixée dans l’annexe de l’instruction mentionnée ci-dessus.De manière synthétique, le dossier doit contenir les éléments suivants :la documentation permettant de justifier le calcul ou le recalcul de cette mesure transitoire, incluant :une description du périmètre d’application envisagé et des engagements concernés par la demande initiale ou son évolution pour une demande de recalcul ;le futur état de reporting réglementaire S22.05.b, tel que décrit par le projet de norme technique d’exécution publié par l’EIOPA, qui détaille le calcul de la mesure transitoire ;la documentation justifiant du calcul ou recalcul des provisions techniques Solvabilité II, ainsi que les conclusions du rapport de validation ;la documentation justifiant le calcul ou recalcul des provisions techniques Solvabilité I ;le taux de couverture du capital de solvabilité requis avec et sans application de la mesure transitoire,et, en cas de non couverture de l’exigence de capital sans l’application de la mesure transitoire, le plan de mise en œuvre progressive exposant les mesures prévues par l’organisme pour garantir le respect de l’exigence de capital de solvabilité à la fin de la période transitoire. ProcédureLes dossiers doivent être transmis par voie postale à l’adresse ci-après, et parallèlement par voie électronique à la brigade de contrôle en charge de l’organisme :Secrétariat général de l’Autorité de contrôle prudentiel et de résolutionBrigade de contrôle des organismes d’assurance75436 Paris Cedex 09Pour les demandes déposées à partir du 1er janvier 2016, l’ACPR se prononcera sur l’autorisation dans un délai maximal de trois mois à compter de la date de réception du dossier complet.Pour les demandes déposées avant le 30 septembre 2015, le délai maximal est de 6 mois.Pour les demandes déposées entre le 1er octobre 2015 et le 31 décembre 2015, l’ACPR devra se prononcer avant le 31 mars 2016. Conséquences pour le groupeSi l’organisme utilisant ce dispositif appartient à un groupe, les comptes combinés ou consolidés du groupe s’établissent sur la base des comptes individuels après l’application de la mesure, sans que le groupe ne soit tenu de solliciter la même autorisation. Le groupe est néanmoins soumis aux exigences de reporting relatives à l’utilisation de cette mesure.
+
+  
+    
+    Mis à jour le : 01/02/2019 15:03
+  
+  
+  
+
+                        
+                      
+                                            

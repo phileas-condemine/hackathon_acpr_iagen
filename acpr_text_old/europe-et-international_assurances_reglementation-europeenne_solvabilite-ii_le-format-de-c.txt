@@ -1,0 +1,87 @@
+
+                      
+
+                                                  
+                            Vous êtes iciInternational                                                                                              
+Assurances
+Réglementation européenne
+Solvabilité II
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Le format de communication des informations Solvabilité II                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    L’instruction relative à la transmission à l'Autorité de contrôle prudentiel et de résolution de documents prudentiels par les organismes d’assurance et de réassurance qui relèvent du régime Solvabilité II
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  L’objectif de l'instruction 2016-I-17 est de définir le format de communication d’informations que les organismes d’assurance français assujettis doivent respecter pour les télétransmissions du reporting Solvabilité II ou ENS. De façon générale, toute information "quantitative" doit être communiquée à l’ACPR au format eXtensible Business Reporting Language (XBRL) décrit sur le site de l’EIOPA (pour les informations SII) ou sur le site de l’ACPR (pour les informations ENS), et respecter les contrôles des taxonomies dédiées et les règles de remises supplémentaires ("filing rules"). Les autres informations, dites "narratives"  (RSR, SFCR, ORSA, rapports narratifs nationaux), doivent être communiquées dans des formats informatiques autres exploitables aux fins du contrôle. Toutes ces informations doivent être électroniquement signées dans le respect de l’instruction de l’Autorité de contrôle prudentiel et de résolution n° 2015-I-18, à compter du 1er octobre 2016.  Toutefois, à titre transitoire pour l’exercice 2016, la signature électronique n’est pas requise pour les documents visés à l’article 3 de l’instruction 2016-I-16 modifiée, relative aux documents prudentiels annuels à communiquer par les organismes assujettis au contrôle de l’ACPR relevant du régime Solvabilité II. Ci-dessous, des informations complémentaires sur la communication d’informations au format XBRL à l’ACPR.
+
+  
+
+
+
+  
+    
+    
+    Les conditions de la remise XBRL  
+  
+    La taxonomie, les états, ainsi que l’ensemble de la documentation métier et technique nécessaire à une remise XBRL – eXtensible Business Reporting Language – sont disponibles sur le site e-SURFI Assurance.Les remises XBRL doivent être déposées sur le guichet ONEGATE de la Banque de France. Les conditions d’accès au guichet et de dépôt de la remise XBRL sont décrites dans le manuel utilisateur de dépôt de la remise XBRL. Avant de pouvoir déposer toute remise, l’organisme doit tout d’abord s’accréditer sur le guichet. Le document précité présente en annexe la procédure d’accréditation en ligne sur le guichet.La remise XBRL doit répondre aux spécifications techniques décrites dans les documents suivants :le guide de remise XBRL commun aux reportings EBA et EIOPA ;un cahier des charges informatique sur le dépôt de la remise XBRL sur le guichet.Le guichet permet de recevoir les remises XBRL par télétransmission. Une note technique présente les modalités de télétransmission proposées : "ONEGATE-Note-Technique-Modalites-Echanges"*L’ensemble des documents produits suite à la réception et au traitement de vos remises (accusés de réception, comptes rendus de collecte, etc.) sont mis à votre disposition sur le guichet. Ils peuvent être consultés via web-service selon les conditions expliquées dans une note technique: "ONEGATE-Note-Technique-Modalites-Echanges-A2A_Messages"Les remises doivent être conformes à la taxonomie publiée par EIOPA.Tous ces documents sont accessibles sur la page documentation technique du site e-SURFI Assurance.  
+
+
+
+  
+    
+    
+    L’ouverture du guichet  
+  
+    Les organismes bénéficient d'un environnement de test sur le guichet ONEGATE de la Banque de France à l'adresse https://onegate-test.banque-france.fr/. Il permet de tester ses accès et ses remisesL'environnement de production est également ouvert, accessible à l’adresse https://onegate.banque-france.fr/. Lors d’une remise corrective, il est essentiel de remettre l’ensemble des données car chaque remise déposée se substituera à la précédente.Ce guichet est également le canal par lequel vous devrez déposer les rapports narratifs demandés dans le cadre de l’exercice de préparation 2015. Les modalités de dépôt sont décrites dans le « Manuel de l’Utilisateur Externe COLLECTE SOLVA2 Bureautique 2015 » accessible sur la page documentation technique du site e-SURFI Assurance.  
+
+
+
+  
+    
+    
+    Le traitement de la remise par l’ACPR  
+  
+    - À chaque dépôt sera transmis un accusé de réception par le guichet.- Après traitement de la remise par notre application de collecte, un compte rendu de collecte sera mis à disposition du remettant sur son espace personnel sur le guichet.- Processus séquentiel de traitement de la remise XBRL :Dès le dépôt de l’instance XBRL sur le guichet OneGate, celle-ci est contrôlée une première fois sur le respect des règles de conformité XBRL :elle peut faire l’objet d’un rejet qui nécessite correction et nouveau dépôt ;dans ce cas, il y a envoi d’un accusé de réception invalide.Les contrôles métier sont ensuite exécutés dans l’application de collecte de l’ACPR :le résultat et la qualité de la remise sont mis à disposition le lendemain dans le compte rendu de collecte qui intègre également une restitution Excel des états remis avec une mise en évidence des cellules avec contrôles en anomalie ;quelle que soit la qualité de la remise, celle-ci est intégrée au SI de l’ACPR.Toute remise avec anomalie de contrôle nécessite une nouvelle soumission corrective.  
+
+
+
+  
+    
+    
+    L’ACPR à votre service  
+  
+    L'ACPR met à votre disposition les réponses aux questions posées sur la collecte en XBRL.Le pôle GARU (Gestion des applications et relations utilisateurs) de l’ACPR est le point d’entrée pour toute question technique ou fonctionnelle : support-s2-assurances@acpr.banque-france.fr  
+
+
+
+  
+    
+    Mis à jour le : 07/06/2018 15:09
+  
+  
+  
+
+                        
+                      
+                                            

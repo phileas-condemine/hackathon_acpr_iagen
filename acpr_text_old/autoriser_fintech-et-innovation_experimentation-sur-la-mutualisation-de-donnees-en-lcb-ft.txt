@@ -1,0 +1,204 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Fintech et Innovation
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Expérimentation sur la mutualisation de données en LCB-FT                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    L’ACPR propose à la place financière une expérimentation sur les méthodes collaboratives et la mutualisation de données dans le domaine de la lutte contre le blanchiment des capitaux (LCB-FT) et plus particulièrement celui de la détection des transactions suspectes.
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  A propos
+Réunion de présentation
+Tech Sprint
+
+  Dans le prolongement de ses travaux sur l’intelligence artificielle (IA), et de la publication de deux documents de réflexion, l’ACPR souhaite organiser une expérimentation afin d’évaluer les bénéfices de la mutualisation de données sur la performance des modèles de détection des transactions suspectes dans le domaine de la LCB-FT dans le secteur bancaire.Selon le Groupe d’action financière (GAFI), qui a publié un rapport sur ce thème en 2021, avec la mise en commun des données et l’analyse collaborative, les institutions financières peuvent mieux comprendre, évaluer et réduire les risques de blanchiment des capitaux et de financement du terrorisme et par là même, identifier plus facilement les activités illégales.En raison du caractère novateur de son format et des technologies mobilisées, cette expérimentation se déroulera en plusieurs temps :         Une réunion de présentation le 30 mars 2022 à destination des acteurs intéressés par une participation à ce projet d’expérimentation : banques et prestataires techniques.         Un « Tech Sprint », permettant à des prestataires techniques fournissant des solutions en matière de calculs collaboratifs et de mutualisation de données (*) de présenter leur savoir-faire aux banques volontaires.         En parallèle, des ateliers de réflexion et de modélisation avec les banques participant à l’expérimentation, notamment pour établir les cas d’usage les plus intéressants à tester.         La mise en oeuvre des méthodes retenues et l’évaluation des résultats par chacune des équipes composées de banques et de prestataire(s). (*) solutions reposant notamment sur les « PETs » (Privacy-Enhancing Technologies ou méthodes de préservation de la confidentialité)Avec cette expérimentation, l’objectif de l’ACPR est de stimuler la réflexion de place sur les applications de l’IA dans le domaine de la LCB-FT. Plus concrètement, cette expérimentation sera l’occasion, en testant des solutions de mutualisation ou d’analyse collaborative de données, d’explorer une piste d’amélioration des algorithmes de détection, susceptible de réduire le nombre de fausses alertes et d’augmenter ainsi l’efficacité de la lutte contre le blanchiment.
+
+
+
+  La réunion de présentation s’est déroulée le 30 mars dans les locaux de l’ACPR à Paris.Télécharger le support utilisé pendant la réunionPour toute question concernant l’expérimentation, nous contacter à l’adresse expe-lcb@acpr.banque-france.frConcernant le Tech Sprint en mutualisation confidentielle de données, nous contacter à l’adresse techsprint2022@acpr.banque-france.fr 
+
+
+
+  
+    
+    
+
+
+
+  
+    
+  
+  
+    
+
+
+  
+    
+    
+  
+
+            
+        
+      
+  
+          
+                  ACPR
+                      
+    
+        Tech Sprint 2022 : Rapport de synthèse
+    
+    
+          
+        Publié le 12/01/2023
+FR
+PDF (1.61 Mo)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+    
+
+
+  
+    
+    
+  
+
+            
+        
+      
+  
+          
+                  ACPR
+                      
+    
+        Tech Sprint 2022: Summary report
+    
+    
+          
+        Publié le 12/01/2023
+FR
+PDF (1.56 Mo)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+    
+
+
+  
+    
+    
+  
+
+            
+        
+      
+  
+          
+                  ACPR
+                      
+    
+        TECH SPRINT 2022 : Appel à candidatures
+    
+    
+          
+        Publié le 16/05/2022
+FR
+PDF (1.52 Mo)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+    
+
+
+  
+    
+    
+  
+
+            
+        
+      
+  
+          
+                  ACPR
+                      
+    
+        TECH SPRINT 2022 : Call for applications
+    
+    
+          
+        Publié le 16/05/2022
+EN
+PDF (1.52 Mo)
+      
+    
+    
+      Téléchargement     
+  
+
+      
+
+
+  
+  
+
+
+
+
+
+
+  
+    
+    Mis à jour le : 12/01/2023 12:14
+  
+  
+  
+
+                        
+                      
+                                            

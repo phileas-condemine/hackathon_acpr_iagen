@@ -1,0 +1,46 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Procédures secteur banque
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Régime pilote pour les infrastructures de marché DLT                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+        PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Le règlement (UE) 2022/858 du 30 mai 2022 sur un régime pilote pour les infrastructures de marché reposant sur la technologie des registres distribués (DLT) permet aux prestataires de service d’investissement (à savoir les établissements de crédit prestataires de services d’investissement, les établissements de crédit et d’investissement et les entreprises d’investissement), aux entreprises de marché et aux dépositaires centraux de titres d’exploiter le cas échéant un système multilatéral de négociation (MTF DLT), un système de règlement (SR DLT) ou un système de négociation et de règlement (SNR DLT) dont le fonctionnement repose sur la technologie DLT. Le règlement entre en vigueur le 23 mars 2023.L’article 7 de la loi n°2023-171 du 9 mars 2023 (dite DDADUE) a procédé aux adaptations du code monétaire et financier nécessaires à la mise en oeuvre du régime pilote et a notamment organisé la répartition de compétences entre autorités nationales – l’AMF, la Banque de France et l’ACPR – et de la supervision des trois différents types d’acteurs susceptibles de solliciter les exemptions permises par le régime pilote. Le régime pilote aura une durée de 3 ans, reconductible une fois. Quels sont les objectifs du régime pilote?Le régime pilote vise à permettre l'innovation et l'expérimentation dans un cadre règlementaire garantissant la protection des investisseurs, l'intégrité des marchés et la stabilité financière, dans les activités relatives à la négociation et la post-négociation d’instruments financiers. Il permet l’émission, l’enregistrement, le transfert et le stockage d’instruments financiers DLT dits tokenisés. Il s’agit de la possibilité d’adosser numériquement un instrument financier et les droits qui lui sont attachés à un registre distribué (DLT), ou blockchain, et de réaliser des transactions en monnaie de banque centrale ou de banque commerciale, y compris tokenisée, voire de recourir à des jetons de monnaie électronique. Quels actifs sont concernés ?Le régime pilote regroupe sous certaines conditions et plafonds les instruments financiers tokenisés (actions, obligations et parts d’OPCVM).   Que permet-il concrètement ?Le règlement régime pilote crée trois nouvelles catégories d’infrastructures de marché « DLT », relevant chacune d’une procédure d’autorisation spécifique :le système multilatéral de négociation DLT (MTF DLT) : une plateforme de négociation exploitée par un prestataire de services d’investissement ou une entreprise de marché, outre d’éventuelles personnes physiques et morales agréées; le système de règlement DLT (SR DLT ) : il  permet le règlement de transactions sur des instruments financiers DLT contre paiement ou livraison. Ce système de règlement est exploité par un dépositaire central de titres (DCT) agréé selon les dispositions du règlement 909/2014 CSDR ; le système de négociation et de règlement DLT (SNR DLT) : une infrastructure de marché qui propose à la fois les services relevant des systèmes de négociation et de règlement MTF DLT et SR DLT. Comment présenter une demande d’autorisation dans le cadre du régime pilote ? Le régime pilote met en place des exigences s’appliquant aux différentes infrastructures de marché. Ces dernières doivent préalablement demander une autorisation spécifique d’exploiter à l’autorité compétente de chaque État membre. Des dérogations et des exemptions, accompagnées de contreparties précises, peuvent être sollicitées dans le cadre de cette procédure. L’Autorité européenne des marchés financiers (ESMA) a publié, le 8 mars 2023,  ses orientations concernant les formulaires, formats et modèles normalisés à utiliser pour demander l’autorisation d’exploiter une infrastructure de marché. Les autorités nationales compétentes peuvent être contactées afin d’apporter toute information supplémentaire sur les éléments nécessaires à fournir.Toute information fournie dans le cadre d’une demande d’autorisation pour opérer une infrastructure de marché DLT et/ou une demande d’exemption au respect de l’application de certaines obligations aux textes européens doit être transmise sur un support durable1. Les dossiers peuvent être rédigés en français ou en anglais. Les demandeurs qui ne disposent pas au préalable d’un agrément en tant que prestataire de services d’investissement, entreprises d’investissement, entreprise de marché ou dépositaire central de titres doivent le solliciter en parallèle :Pour les entreprises d’investissement, les établissements de crédit prestataires de services d’investissement et les établissements de crédit et d’investissement, auprès du pôle Fintech Innovation de l’ACPR (fintech-innovation@acpr.banque-france.fr) qui orientera ensuite les porteurs de projet vers la Direction des autorisations de l’ACPR. Pour les entreprises de marché et les dépositaires centraux de titres, auprès de l’Autorité des marchés financiers (innovation@amf-france.org). Pour les entités déjà agréées souhaitant bénéficier du régime pilote, celles-ci  doivent obtenir une autorisation préalable des autorités compétentes. Ces dernières sont selon la nature de l’autorisation recherchée, l’ACPR ou l’AMF, après avis de la Banque de France. Pour ce faire, les entités sollicitant le bénéfice du régime pilote sont invitées à suivre la procédure suivante :Contacter, selon le cas, du secrétariat de la Direction des autorisations de l’ACPR (contactautorisations@acpr.banque-france.fr) pour les EC-PSI, les ECI et les EI ou  la Direction de la supervision des intermédiaires et des infrastructures de marché de l’AMF pour les entreprises de marché et les dépositaires centraux de titres (infrastructures@amf-france.org), afin de convenir d’un rendez-vous de présentation de leur projet et d’examiner le calendrier prévisionnel de réalisation. Remplir et déposer, selon le cas, dans le portail des autorisations de l’ACPR ou auprès de l’AMF (infrastructures@amf-france.org) le dossier correspondant à l'agrément sollicité, accompagné de l'ensemble des documents justificatifs, dont  le formulaire de demande figurant à l’annexe des orientations de l’Autorité européenne des marchés financiers concernant les formulaires, formats et modèles normalisés à utiliser pour demander l’autorisation d’exploiter une infrastructure de marché DLT.  SR DLT SNR DLT MTF DLT  Dépositaire central de titresDépositaire central de titresPrestataire de services d’investissementEntreprise de marchéPrestataire de services d’investissementEntreprise de marchéPoint d’entrée pour la présentation des projetsAMF : infrastructures@amf-france.orgAMF : infrastructures@amf-france.orgACPR : secrétariat de la direction des AutorisationsAMF : infrastructures@amf-france.orgACPR : secrétariat de la direction des AutorisationsAMF : infrastructures@amf-france.orgDépôt des dossiersAMF : infrastructures@amf-france.orgAMF : infrastructures@amf-france.orgACPR : portail des autorisationsAMF : infrastructures@amf-france.orgACPR : portail des autorisationsAMF : infrastructures@amf-france.org___________________________________________________ [1] Tout instrument rendant possible le stockage d’informations d’une manière permettant de s’y reporter pendant une période adaptée aux fins auxquelles les informations sont destinées et permettant la reproduction à l’identique des informations stockées.
+
+
+
+  
+    
+    Mis à jour le : 07/04/2023 16:55
+  
+  
+  
+
+                        
+                      
+                                            

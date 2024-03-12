@@ -1,0 +1,126 @@
+
+                      
+
+                                                  
+                            Vous êtes iciPublications
+Etudes et recherche
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Séminaires de recherche ACPR                                                                                        
+                                                                                                          
+
+    
+  
+    
+      
+  
+  
+    La Direction d'Études et d'Analyse des Risques de l’ACPR organise une série de séminaires académiques où des chercheurs invités ou membres de l’ACPR présentent leurs derniers travaux, sur des thématiques de régulation ou de risque financier. Ces séminaires sont ouverts à tous.
+PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+
+
+  
+  L’inscription par mail à seminaire-recherche-acpr@banque-france.fr  est gratuite mais obligatoire pour y assister. Si vous souhaitez être informés des prochains évènements, merci d’envoyer un mail à la même adresse.L’ACPR héberge également les séminaires mensuels de la Chaire ACPR : la page dédiée aux séminaires de la Chaire ACPR est accessible ici. PROchain évènementMardi 11 juillet 2023 à 10h30 : Eric Vansteenberghe (ACPR/DEAR) "Insurance Supervision under Climate Change: A Pioneers Detection MethOD" Discutant : Arthur Charpentier (Université du Québec à Montréal)Attention, ce séminaire aura lieu en mode hybride : le séminaire se tiendra à l’ACPR : 4 Pl. de Budapest, 75009 Paris avec possibilité de le suivre également à distance.L’inscription (gratuite) est obligatoire (pour les 2 modes de participation) par mail à SEMINAIRE-RECHERCHE-ACPR@acpr.banque-france.frSi vous optez pour le mode en visioconférence, le lien de connexion vous sera envoyé prochainement.Abstract:This research introduces a novel supervisory tool, the Pioneers Detection Method, aimed at enhancing resilience in insurance markets dealing with the uncertainties of climate change. The paper builds on a theoretical model of an insurance market, where independent experts set premiums based on their individual risk evaluations. The segmented nature of the private insurance market hinders the understanding of the tail parameter of the loss distribution, and there's no direct way to eliminate bias, as extreme events are infrequent. The proposed supervisory tool uses temporal changes to consolidate expert opinions, pinpointing those who rapidly and accurately identify extreme climate-related events. The effectiveness of the Pioneers Detection Method is affirmed through a series of simulations, where it surpasses traditional pooling methods within a Bayesian framework. This supervisory approach also proves to be the most beneficial in improving welfare in a fragmented insurance market comprised of a few private insurance companies. Dernier évènementMercredi 23 novembre 2022 à 11h : Théo Nicolas, Stefano Ungaro et Eric Vansteenberghe (ACPR/DEAR) "Public Guaranteed Loans and Bank Risk-Taking" Discutant : Francesco Manaresi (OCDE)Attention, ce séminaire aura lieu en mode hybride : le séminaire se tiendra à l’ACPR : 4 Pl. de Budapest, 75009 Paris avec possibilité de le suivre également à distance.L’inscription (gratuite) est obligatoire (pour les 2 modes de participation) par mail à SEMINAIRE-RECHERCHE-ACPR@acpr.banque-france.frSi vous optez pour le mode en visioconférence, le lien de connexion vous sera envoyé prochainement. Abstract :We study the effect of Public Guaranteed Loans (PGLs) on bank risk-taking during the Covid-19 pandemic in France. The presence of guarantee schemes may encourage riskier lending, pushing banks to lend to riskier borrowers or worsening incentives to prevent write-offs of loan applicants.  Investigating the risk-taking channel of PGLs at the extensive margin, we find that smaller and riskier firms had a higher probability of obtaining a PGL. Yet, isolating credit demand from credit supply at the intensive margin,  we find that safer firms had higher amounts of PGLs, while banks that were more exposed to non-performing loans (NPLs) before the crisis made smaller PGLs to risky firms, thereby using the guaranteed loan program to improve their financial position and reduce exposure to NPLs. This result remains valid when looking at the total amount of outstanding credit. By examining the substitution effect of SGLs, we find that banks substituted more PGLs for unsecured loans when firms are sounder. Finally, at the bank level, we find that PGLs have no impact on the overall credit risk of banks credit portfolio.
+
+
+        
+  
+  
+      
+      
+  
+    2023
+                  
+              2022
+                  
+              2021
+                  
+              2020
+                  
+              2019
+                  
+              2018
+                  
+              2017
+                  
+              2016
+                  
+              2015
+                  
+              2014
+                  
+              2013
+                  
+          
+    
+  
+  
+  
+  
+  
+  
+
+        
+  
+  
+      
+        
+      
+          
+   
+
+  
+
+  
+  
+    
+  
+  
+    
+              Publication
+      
+              Séminaires de recherche ACPR
+          
+
+
+    Bank Market Power and Interest Rate Setting: Do Consolidated Banking Data Matter?
+            The literature on the effects of bank market power on access to credit has produced many results that are sometimes contradictory. Yet, this paper draws attention to a problematic aspect of traditional measures of bank market power, which are based on...
+    
+        
+      
+              Publié le 27/06/2023
+                                          FR
+                                PDF (506.33 Ko)
+                  
+
+    Consulter Consulter en ligne
+Téléchargement
+  
+
+
+
+    
+    
+  
+  
+  
+  
+  
+  
+  
+
+
+
+  
+
+                        
+                      
+                                            

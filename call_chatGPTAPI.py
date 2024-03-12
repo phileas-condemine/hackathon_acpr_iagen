@@ -1,8 +1,8 @@
 import os
 from openai import AzureOpenAI
-
+import config
 # Ne pas toucher aux deux lignes suivantes.
-os.environ["AZURE_OPENAI_KEY"] = "OPENAI_API_KEY"
+os.environ["AZURE_OPENAI_KEY"] = config.gpt_api_key
 os.environ["AZURE_OPENAI_ENDPOINT"] = "https://francecentral-openai.openai.azure.com"
 
 # Le modèle à utiliser pour vos requêtes. Modèle recommandé : "gpt-35-turbo". Autres modèles disponibles : "gpt-35-turbo-16k", "gpt-4", "gpt-4-32k".

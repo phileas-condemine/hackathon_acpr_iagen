@@ -1,0 +1,91 @@
+
+                      
+
+                                                  
+                            Vous êtes iciInternational                                                                                              
+Assurances
+Réglementation européenne
+Solvabilité II
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Les exigences nationales complémentaires                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Le reporting Solvabilité II fait l’objet d’une harmonisation maximale au niveau européen. Néanmoins, chaque autorité nationale est autorisée à le compléter afin de répondre à des besoins non couverts par Solvabilité II et correspondant à des spécificités nationales de la réglementation ou du marché.
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  
+
+
+
+  
+    
+    
+    Les exigences quantitatives (états de reporting)  
+  
+    L’ACPR a ainsi défini des états nationaux spécifiques (ENS) correspondant à des besoins prudentiels ou statistiques, ainsi que des états détaillant certains postes comptables et leur évolution entre deux clôtures annuelles.  Ce jeu d’états peut être segmenté selon les sous-ensembles suivants :Des états prudentiels fondés sur des données issues des comptes individuels – dont certains ont été enrichis par rapport au dossier annuel actuel - comprenant : le compte de résultat par catégorie (FR.13), l’enquête taux servis (FR.20.01) et les opérations réalisées pour le compte d’unions d’institutions de prévoyance (FR.25.01). En outre, les états introduits dans le dossier annuel dès 2014 sont maintenus : états relatifs au calcul de la participation aux bénéfices (FR.22), au suivi des taux minimum garantis (FR.23.01), des conventions branche 26 (FR.26.01) et des Provisions pour Sinistres Non Encore Manifestés (FR.24.01). Enfin un état a été introduit en 2021 sur la valorisation des biens immobiliers (FR.30.01) ;Des états prudentiels fondés sur des données Solvabilité II : deux états spécifiques aux organismes bénéficiant d’un modèle interne (FR.29 solo et groupe) ont été ajoutés et visent à évaluer la solvabilité selon la formule standard ; Des états à caractère comptable reprenant des informations issues des comptes individuels et de leurs annexes, (FR.02.01 à FR.12.01) élaborés à partir d’états actuellement transmis à l’ACPR (à l’exception de l’état FR.11.01 sur la réserve de capitalisation) ;Des états statistiques existants applicables à tous les organismes : états sur la prévoyance complémentaire (FR.14.01 à FR.14.04) et sur la RC Médicale (FR.21.01 à FR.21.04). Ils sont disponibles sous forme de maquettes Excel à partir des liens ci-dessous, accompagnés de leurs guides méthodologiques. L'instruction ACPR 2023-I-02 implique leur communication annuelle à l'ACPR.Dossier ENS statistiques et prudentiels - mis à jour le 07/12/2022○ ENS statistiques et prudentiels taxonomie 1.1 ○ ENS statistiques et prudentiels taxonomie 1.2○ ENS statistiques et prudentiels taxonomie 1.3○ ENS statistiques et prudentiels taxonomie 1.4○ ENS statistiques et prudentiels taxonomie 1.5○ ENS statistiques et prudentiels taxonomie 1.6  Dossier ENS comptables - mis à jour le 07/12/2022○ ENS comptables taxonomie 1.1○ ENS comptables taxonomie 1.2○ ENS comptables taxonomie 1.3○ ENS comptables taxonomie 1.4○ ENS comptables taxonomie 1.5○ ENS comptables taxonomie 1.6 Les ENS ne concernent que les organismes individuels (excepté l’état FR.29.01)  et les données décrites sont à remettre annuellement, à l’ACPR, dans les quatre mois après la clôture annuelle. Ils doivent, à l’exception des états fondés sur des données Solvabilité II (FR.29.01) ou de celui relatif à la réserve de capitalisation (FR.11.01) être envoyés par tous les organismes (selon l’applicabilité des informations requises). Les questions relatives au contenu des ENS et leurs guides méthodologiques doivent être adressés à : questions.reporting.ENS@acpr.banque-france.fr (merci d'indiquer le nom/code de l'ENS concerné dans l'objet du mail). Réponses aux questions reçues par l’ACPR à propos du contenu des ENS et leurs guides méthodologiques.  
+
+
+
+  
+    
+    
+    Modalités d’envoi des ENS à l’ACPR  
+  
+    Le format de remise des ENS est précisé par l'instruction 2022-I-13. Les organismes assujettis au régime Solvabilité II doivent soumettre les données au format XBRL de façon similaire au reporting Solvabilité II européen. La taxonomie qui décrit ces données présente une structure comparable à celle des taxonomies de l’AEAPP. Les organismes et leur prestataire de service peuvent la télécharger, avec la documentation technico-fonctionnelle qui l'accompagne, sur eSURFI Assurance et le site de l'AEAPP. Les questions relatives à la taxonomie RAN et à sa mise en œuvre doivent être adressées à l'adresse : support-s2-assurances@acpr.banque-france.fr. Les organismes qui ne sont pas assujettis à Solvabilité II communiquent les données des ENS qui leur sont applicables, en même temps que le reste du dossier annuel sans utiliser la taxonomie. Les modalités de remise seront détaillées sur cette page.  
+
+
+
+  
+    
+    
+    Les autres documents juridiques et comptables nationaux spécifiques  
+  
+    Les organismes assujettis à Solvabilité II doivent également remettre à l’ACPR un ensemble de documents de natures juridiques, comptables et prudentiels déjà transmis à ce jour (voir schéma récapitulatif infra). Les modalités de remises sont également décrites dans l'instruction 2022-I-13 et sur eSURFI Assurance.   
+
+
+
+  
+    
+    
+    Synthèse récapitulative  
+  
+    
+    
+    
+
+* Applicable uniquement pour certains types d'organismes.  
+
+
+
+
+
+  
+    
+    Mis à jour le : 07/06/2023 15:08
+  
+  
+  
+
+                        
+                      
+                                            

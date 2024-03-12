@@ -1,0 +1,93 @@
+
+                      
+
+                                                  
+                            Vous êtes iciContrôler
+Contrôle prudentiel des assurances
+Réglementation générale des assurances
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Pilier 1 : Modèles internes                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    La procédure de précandidature
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  
+
+
+
+  
+    
+    
+    Définition du processus de précandidature  
+  
+    Les organismes d’assurance et de réassurance peuvent solliciter auprès des autorités de contrôle l’autorisation d’utiliser un modèle interne, complet ou partiel, en lieu et place de la formule standard pour le calcul de leur SCR. Les autorités de contrôle disposent d’un délai de 6 mois à partir de la date de remise du dossier de candidature complet pour statuer sur le caractère adéquat du modèle.Suivant une recommandation de l’EIOPA, l’ACPR a mis en place, un processus informel de pré-candidature en amont du dépôt de candidature officiel. Il s’articule autour des trois temps suivants :L’entrée en précandidature ;L’examen du modèle interne ;Le suivi des évolutions apportées aux modèles.  
+
+
+
+  
+    
+    
+    Entrée en précandidature  
+  
+    L’organisme candidat doit remettre un dossier de pré-candidature comprenant les documents du dossier de candidature officiel détaillés dans le règlement d’exécution (UE) 2015/460 complété par le règlement délégué (UE) 2015/35.Si ce dossier de pré-candidature est de facto un document de travail, il doit cependant être de qualité suffisante pour permettre un examen approfondi du modèle. Le processus de pré-candidature ne pourra pas débuter en cas de qualité insuffisante.Sur la base des retours d’expérience des premiers examens de modèles internes, l’ACPR insiste sur l’importance de disposer de dossiers largement stabilisés, incluant notamment la validation indépendante du modèle pour lequel la société envisage de candidater, la politique de changement de modèle et les processus de gouvernance interne.  
+
+
+
+  
+    
+    
+    Analyse d’une précandidature  
+  
+    Le processus de contrôleEn cas d’acceptation du dossier de pré-candidature, un calendrier prévisionnel des contrôles est établi par l’ACPR après discussion avec l’organisme, afin d’examiner les principaux risques et l’environnement opérationnel autour du calcul "modèle interne". Ce plan dépend des caractéristiques de l’organisme candidat et de la nature du modèle interne retenu.Ce plan de contrôle peut combiner des contrôles sur place, pour lesquels la charte de contrôle sur place de l’ACPR s’applique avec notamment la rédaction d’un rapport de contrôle, et des entretiens avec l’organisme menés dans le cadre du contrôle permanent.Il est à noter que le plan de contrôle intègre la revue de l’évaluation des provisions techniques et, plus généralement des postes du bilan prudentiel dans le cadre normatif Solvabilité 2. En effet, pour apprécier la cohérence du modèle interne avec les méthodes de valorisation retenues par l’organisme, une bonne compréhension des approches retenues pour la valorisation du bilan prudentiel est indispensable.Le référentiel de l’ACPRPour assurer la cohérence et l’efficacité des contrôles portant sur les modèles internes lors de la phase de pré-candidature, l’ACPR a élaboré un référentiel d’analyse reprenant le corpus réglementaire de la directive 2009/138/CE dite "Solvabilité II" transposée dans le code des assurances (articles L. 352-1 à L.352-3, aux articles R. 352-13 à R. 352-24), du règlement délégué, et les orientations de l’EIOPA. Ce référentiel est articulé autour de 16 critères traitant chacun d’un thème particulier :Critères techniques1Le périmètre et la structure du modèle sont pertinents2L’évaluation du bilan à un an pour le calcul du SCR à l’aide du MI est adéquate3Les facteurs de risques utilisés dans le MI sont appropriés4La structure d'agrégation reflète justement la diversification des risques5Dans le cas d'un MIP, les résultats du MI sont correctement intégrés dans la formule standard6Les techniques de réduction du risque sont identifiées et leurs impacts correctement mesurés7La mesure du risque utilisée dans le MI est calibrée conformément à la définition officielle8Le reporting MI reflète correctement le profil de risqueCritères qualitatifs9La gouvernance du dispositif MI est de qualité10La validation du MI permet d'en garantir la qualité statistique11Le dispositif de contrôle interne couvre le dispositif MI12L’attribution des pertes et profits confirme les résultats du modèle13Le MI est largement utilisé à des fins opérationnelles14La politique de changement de modèle est rigoureuse15La qualité du système d’information du modèle interne est satisfaisante16La documentation du modèle est de bonne qualitéCe référentiel ne se substitue nullement à la réglementation et une candidature au modèle interne devra répondre à l’ensemble des exigences réglementaires, au nombre de plusieurs centaines. Son objet est plutôt d’offrir une vision synthétique des attentes du superviseur vis-à-vis d’un modèle interne et de faciliter le suivi et les échanges autour des modèles internes.  
+
+
+
+  
+    
+    
+    Suivi des modèles internes  
+  
+    L’analyse des pré-candidatures conduit les services de l’ACPR à attirer l’attention des organismes sur certains points à améliorer ou à développer dans leur dispositif "modèle interne" en vue de la candidature officielle. Les rapports de contrôle sur place et les lettres de suite subséquentes recensent ainsi les principaux points problématiques détectés par les services et les organismes candidats doivent indiquer en retour leurs calendriers d’actions correctrices.Les évolutions du modèle interne peuvent également résulter de changements opérés à l’initiative de l’organisme, par exemple suite aux travaux de validation indépendante, ou être liées à des modifications apportées aux outils externes fournis par des prestataires et réutilisés par l’organisme.Dans tous les cas, il importe que les organismes entrés en pré-candidature communiquent régulièrement aux services de l’ACPR leurs évolutions de modèle, effectuées ou prévues, de manière à garantir un suivi efficace de celui-ci jusqu’au dépôt de la candidature officielle.  
+
+
+
+  
+    
+    
+    Cas des groupes européens  
+  
+    Dans le cas des groupes d’assurance souhaitant utiliser leur modèle interne à la fois pour le calcul de leur capital de solvabilité requis au niveau consolidé et pour celui d’une ou plusieurs entités légales d’assurance ou de réassurance, la directive prévoit une décision conjointe par les autorités de contrôle concernées au sein du collège de superviseurs.Dans le cadre des processus de pré-candidature, afin de préparer au mieux le traitement des dossiers de candidature officiels, les services de l’ACPR ont opté pour un travail en étroite collaboration avec leurs homologues.La première étape consiste à s’appuyer sur le périmètre couvert par le modèle interne groupe pour identifier les superviseurs participant au collège concernés par la pré-candidature puis à déterminer le modus operandi le plus approprié pour un travail conjoint entre eux. Il convient de souligner que les autorités non directement concernées par le modèle interne peuvent être également consultées lors du processus de pré-candidature (cas des pays tiers notamment).Entre superviseurs concernés sont abordés :Les plans de contrôle pour l’examen des pré-candidatures en distinguant les aspects traités au niveau du groupe et ceux propres à une entité donnée qui pourraient être traités localement. Des contrôles sur place associant les superviseurs concernés sont ainsi menés sur les thématiques groupe. Sur les aspects locaux, en revanche, les contrôles sont principalement menés par le superviseur local auquel peut être amené à s’associer le superviseur groupe ;Les échanges d’information sur les évolutions relatives aux modèles, ainsi que les principales conclusions de leurs contrôles.L’information relative aux modèles internes est également fournie aux autres membres du collège de superviseurs lors des réunions régulières de ce dernier.Les principes généraux énoncés ci-dessous valent que l’ACPR soit le superviseur groupe, auquel cas les services de l’ACPR ont l’initiative pour l’organisation du travail au niveau du collège de superviseurs, ou que l’ACPR soit superviseur local, auquel cas elle contribue pleinement à l’échange d’information et aux tâches revenant aux superviseurs concernés.Il convient par ailleurs de relever que ces travaux relatifs aux modèles internes s’inscrivent dans le cadre plus général du fonctionnement des collèges, qui font l’objet de travaux menés au sein de l’EIOPA, et que des représentants de l’EIOPA participent à ces collèges.  
+
+
+
+  
+    
+    Mis à jour le : 19/03/2019 15:45
+  
+  
+  
+
+                        
+                      
+                                            

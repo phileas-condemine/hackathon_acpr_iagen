@@ -1,0 +1,77 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Procédures secteur assurance
+Transmission d'information
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Exemption de reporting notations                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Exemption de remise d'information sur les notations externes dans les états détaillés des placements et des dérivés
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  
+
+
+
+  
+    
+    
+    Présentation de la mesure  
+  
+    Le règlement d’exécution (UE) 2015/2450 de la Commission du 2 décembre 2015 définissant les normes techniques d’exécution en ce qui concerne les modèles de communication d’informations aux autorités de contrôle en vertu de la directive 2009/138/CE du Parlement européen et du Conseil (ITS) introduit la possibilité pour les autorités de contrôle nationales d’exempter les organismes et les groupes de renseigner les informations suivantes dans l’état détaillé des placements et l’état sur les dérivés, sur une base trimestrielle et annuelle :La notation externe,Le nom de l’agence ayant fourni cette notation externe. Le règlement d’exécution prévoit que l’exemption de ces deux champs peut être accordée sur le fondement des deux dispositions suivantes (les critères ne s’entendant pas de manière cumulative) :En vertu du principe de proportionnalité, sur les articles 35 (6) et (7) de la Directive régissant les exemptions de reporting trimestriel et ligne-à-ligne dans la limite d’une part de marché représentant 20% des organismes vie et non-vie respectivement ;En cas de sous-traitance des informations relatives aux actifs conduisant les organismes/ les groupes à ne pas disposer de cette information directement, renvoyant aux dispositions générales en matière de sous-traitance prévues à l’article 38 et 49 de la Directive et 274 du règlement délégué. Pour rappel, ces informations servent aux organismes à déterminer le niveau de qualité de crédit des titres, mesurée au travers d’une échelle de notation à 7 échelons, allant de 0 (meilleure qualité de crédit) à 6. Des normes techniques d’exécution donnent la table de correspondance liant les notations de crédit de 26 agences notation de crédit aux 7 niveaux de qualité de crédit. Ce niveau de qualité de crédit est à renseigner dans l’état détaillé des placements remis au superviseur, et est requis pour le calcul des exigences de capital, notamment pour le module de risque de marché où il est utilisé comme paramètre d’entrée.En regard des dispositions introduites dans le projet de norme technique, des modalités ont été envisagées pour les décliner en France. S’agissant du critère de proportionnalité, les critères sont déclinés au travers de seuils en taille de bilan, d’application automatique.Les seuils définis pour les exemptions de remise d’information trimestrielle sont utilisés. Pour rappel, ces seuils sont les suivants :a. Seuil vie : 8 milliards d’euros de bilanb. Seuil non-vie : 0,5 milliard d’euros de bilanc. Seuil réassurance : 4 milliards d’euros de bilan  Un mécanisme particulier s’applique aux organismes mixtes. En outre, les groupes en deçà des seuils indiqués plus haut seraient également exemptés du remplissage des notations externes (avec l’ensemble des organismes les composant). S’agissant des groupes au-dessus des seuils, ils demeureraient assujettis au reporting des notations externes. Cependant, il est proposé de laisser la possibilité pour ces groupes de ne pas remettre les champs associés aux notations externes pour les lignes de titres détenus par des organismes ayant bénéficié de l’exemption au niveau individuel. La mise en œuvre de ces seuils signifie concrètement que :les organismes et groupes en dessous des seuils seront dispensés, dans leur remise annuelle, de remise des informations concernant les notations.les organismes et groupes au-dessus des seuils ne seront pas exemptés, tant en base trimestrielle qu’annuelle. S’agissant du critère relatif à la sous-traitance, sont dispensés de la remise de ces informations les organismes dès lors qu’ils ont recours à un prestataire externe en matière de gestion d’actifs (y compris intra-groupe) s’il dispose des notations utilisées sans les rétrocéder à l’assureur directement.  
+
+
+
+  
+    
+    
+    Procédure d’autorisation  
+  
+    Cette exemption sera donc accordée sur le fondement de l’un ou l’autre des deux critères, de manière automatique, sans demande d’autorisation préalable.   
+
+
+
+  
+    
+    
+    Références réglementaires  
+  
+    Les mesures d’exemption de remise d’information sur les notations sont définies dans l’ITS adopté par la Commission européenne le 2 décembre 2015 sur la base du projet élaboré par l’EIOPA. L’instruction 2016-I-03 de l’ACPR précise les modalités de cette autorisation.  
+
+
+
+   Entrée en vigueurL’instruction entre en vigueur à compter de sa publication.
+
+  
+    
+    Mis à jour le : 01/02/2019 15:34
+  
+  
+  
+
+                        
+                      
+                                            

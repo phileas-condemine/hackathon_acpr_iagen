@@ -1,0 +1,46 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Procédures secteur assurance
+Provisions techniques
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Transitoire "taux"                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Utilisation de la mesure transitoire "taux"
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Présentation de la mesureLe régime prudentiel Solvabilité II prévoit des mesures transitoires permettant aux organismes d’assurance et de réassurance de disposer d’un temps d’adaptation avant d’appliquer pleinement les dispositions du nouveau régime et d’en lisser dans le temps les impacts financiers. Ces mesures sont soumises à autorisation préalable de l’Autorité de contrôle.La mesure transitoire portant sur la courbe des taux d’intérêt sans risque pertinente permet d’étaler sur 16 ans l’impact sur les provisions techniques du changement de taux d’intérêt entre un calcul aux normes « Solvabilité I » et un calcul « Solvabilité II ».Cette mesure est basée sur la différence entre le taux d’escompte global sur le portefeuille d’engagements admissibles, équivalent à l’ensemble des taux d’escompte utilisés à l’heure actuelle pour calculer les provisions techniques « Solvabilité I », et un taux annuel effectif basé sur le calcul des provisions techniques « Solvabilité II ». L’ajustement transitoire est une fonction linéaire de la différence de taux ainsi obtenue, décroissante avec le temps, et ajouté au taux d’intérêt utilisé pour le calcul des provisions techniques Solvabilité II.La mesure transitoire ne peut être appliquée que sur les contrats donnant naissance à un engagement d’assurance avant le 31 décembre 2015. Les renouvellements de ces mêmes contrats sont exclus de son champ d’application. Cette transitoire, sur un périmètre donné, n’est pas compatible avec l'utilisation de l’ajustement égalisateur, ni avec l’utilisation de la mesure transitoire sur les provisions techniques.En outre, les organismes faisant usage de cette mesure transitoire et qui ne couvriraient pas leur exigence de capital sans elle doivent soumettre à l’ACPR un plan de mise en œuvre progressive précisant comment ils comptent se mettre en conformité avec le nouveau régime à la fin de la période transitoire. Références réglementairesLa mesure transitoire portant sur la courbe des taux d’intérêt sans risque pertinente est définie aux articles L. 351-4 et R. 351-16du code des assurances , applicables aux organismes des trois codes, qui transposent l’article 308 quarter de la Directive 2009/138/CE, dite « Solvabilité II ».L’instruction de l’ACPR n° 2015-I-07 relative aux demandes d’approbation pour l’utilisation de la mesure transitoire portant sur la courbe des taux d’intérêt sans risque pertinente ainsi que ses annexes précisent les modalités de cette autorisation. Elles sont disponibles aux liens suivants :Instruction n° 2015-I-07 relative aux demandes d’approbation pour l’utilisation de la mesure transitoire portant sur la courbe des taux d’intérêt sans risque pertinente– Annexe 1 : Éléments constitutifs du dossier de demande d’approbation pour l’utilisation de la mesure transitoire portant sur la courbe des taux d’intérêt sans risque pertinente– Annexe 2 : État détaillant le calcul de la mesure transitoire portant sur la courbe des taux d’intérêt sans risque pertinente Contenu du dossier de candidatureLa liste complète des documents à remettre est fixée dans l’annexe de l'instruction mentionnée ci-dessus.De manière synthétique, le dossier devra contenir les éléments suivants :la documentation permettant de justifier le calcul de cette mesure transitoire, incluant :une description du périmètre d’application envisagé et des engagements concernés ;le calcul du taux d’escompte global « Solvabilité I » sur l’ensemble des engagements admissibles, accompagné d’une description de la méthode sous-jacente ;le calcul du taux annuel effectif « Solvabilité II » ;le futur état de reporting réglementaire S22.04.b, tel que décrit par le projet de norme technique d’exécution publié par l’EIOPA, qui détaille le calcul de la mesure transitoire ;la documentation relative au calcul des provisions techniques « Solvabilité II » sur le périmètre concerné.les documents relatifs au calcul des provisions techniques conformément à la réglementation en vigueur jusqu’au 31 décembre 2015 sur le périmètre concerné ;le taux de couverture du capital de solvabilité requis avec et sans application de la mesure transitoire ;et, en cas de non couverture de l’exigence de capital sans l’application de la mesure transitoire, le plan de mise en œuvre progressive exposant les mesures prévues par l’organisme pour garantir le respect de l’exigence de capital de solvabilité à la fin de la période transitoire. ProcédureLes dossiers doivent être transmis par voie postale à l’adresse ci-après, et parallèlement par voie électronique à la brigade de contrôle en charge de l’organisme :Secrétariat général de l’Autorité de contrôle prudentiel et de résolutionBrigade de contrôle des organismes d’assurance75436 Paris Cedex 09Pour les demandes déposées à partir du 1er janvier 2016, l’ACPR se prononcera sur l’autorisation dans un délai maximal de 3 mois à compter de la date de réception du dossier complet.Pour les demandes déposées avant le 30 septembre 2015, le délai maximal est de 6 mois.Pour les demandes déposées entre le 1er octobre 2015 et le 31 décembre 2015, l’ACPR devra se prononcer avant le 31 mars 2016. Conséquences pour le groupeSi l’organisme utilisant ce dispositif appartient à un groupe, les comptes combinés ou consolidés du groupe s’établissent sur la base des comptes individuels après l’application de la mesure, sans que le groupe ne soit tenu de solliciter la même autorisation. Le groupe est néanmoins soumis aux exigences de reporting relatives à l’utilisation de cette mesure.
+
+  
+    
+    Mis à jour le : 01/02/2019 14:56
+  
+  
+  
+
+                        
+                      
+                                            

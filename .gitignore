@@ -4,3 +4,5 @@
 .Ruserdata
 acpr_html/
 acpr_text/
+config.py
+__pycache__/
