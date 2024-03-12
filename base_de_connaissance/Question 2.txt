@@ -1,0 +1,6 @@
+Question : Quelles informations doit contenir un ORSA ?
+
+Réponse : Selon l'article R. 354-3 du code des assurances, l'évaluation interne des risques et de la solvabilité porte au moins sur :
+ - le besoin global de solvabilité (BGS) (« 1ère évaluation »); 
+ - le respect permanent des exigences de capital et des exigences concernant les provisions techniques (« 2ème évaluation »); 
+ - la mesure dans laquelle le profil de risque de l'entreprise s'écarte des hypothèses qui sous-tendent le calcul du capital de solvabilité requis (SCR) (« 3ème évaluation »).

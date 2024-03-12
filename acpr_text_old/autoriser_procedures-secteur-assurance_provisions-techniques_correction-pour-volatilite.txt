@@ -1,0 +1,74 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Procédures secteur assurance
+Provisions techniques
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Correction pour volatilité                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Correction pour volatilité (Volatility Adjustment)
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Présentation de la mesureLes organismes d’assurance peuvent appliquer une correction pour volatilité de la courbe des taux d'intérêt sans risque pertinente à utiliser pour calculer la meilleure estimation de leurs engagements.Cette mesure n’est pas soumise à autorisation préalable de l’ACPR. Elle ne peut néanmoins être utilisée que sous certaines conditions.Pour chaque monnaie, l’EIOPA fournit sur la page « information technique » de son site internet la courbe des taux sans risque ainsi qu’une courbe des taux prenant en compte la correction pour volatilité.Pour chaque monnaie, cette correction est fonction de l'écart entre le taux d'intérêt qu'il serait possible de tirer des actifs inclus dans un portefeuille de référence dans cette monnaie et les taux de la courbe des taux d'intérêt sans risque pertinente correspondante dans cette monnaie.
+
+  
+    
+  
+  
+  
+    
+    
+  
+
+        
+  
+        Site de l'EIOPAS : Information technique
+    
+    
+          
+        eiopa.europa.eu      
+          
+    
+      Consulter    
+  
+  
+
+
+  
+  
+
+  Références réglementairesLa mesure de correction pour volatilité est définie aux articles L. 351-2 et R. 351-6 du code des assurances, applicables aux organismes des trois codes, qui transposent l'article 77 quinquies de la Directive 2009/138/CE, dite « Solvabilité II », et les articles 49 à 51 du règlement délégué (UE) n°2015/35, dit « niveau 2 ».Les conditions d’application explicitées ci-après sont définies aux articles R. 354-2 , R. 354-2-1 , R. 354-3-2 et R. 355-7 du code des assurances. Conditions d’applicationL’application de la correction pour volatilité peut être cumulée avec la mesure transitoire sur les provisions techniques mais pas avec l’ajustement égalisateur (« Matching Adjustment »).Les organismes doivent indiquer dans leur rapport sur leur solvabilité et leur situation financière s’ils utilisent la correction pour volatilité.Les organismes qui utilisent la correction pour volatilité doivent se soumettre aux obligations suivantes :mettre en place un plan de liquidité comportant une prévision des flux de trésorerie entrant et sortant au regard des actifs et passifs faisant l’objet de la correction pour volatilité ;procéder régulièrement aux évaluations suivantes et les soumettre à l’ACPR :sensibilité des provisions techniques et des fonds propres éligibles aux hypothèses sous-tendant le calcul de la correction pour volatilité ;conséquences potentielles d'une vente forcée d'actifs sur les fonds propres éligibles ;conséquences d'une réduction de la correction pour volatilité à zéro ;dans le cas où la réduction de la correction pour volatilité à zéro aurait pour effet le non-respect du capital de solvabilité requis, l'organisme soumet également une analyse des mesures qu'il pourrait prendre en vue de rétablir le niveau de fonds propres éligibles ou de réduire le profil de risque ;la politique écrite en matière de gestion du risque doit comprendre une politique sur les critères d’application de la correction pour volatilité ;dans le cadre de la deuxième évaluation de l’ORSA, le respect permanent des exigences de capital doit être vérifié avec et sans correction pour volatilité ;la description dans le rapport sur la solvabilité et la situation financière des bases et méthodes de l’évaluation des provisions techniques prudentielles et des autres passifs doit inclure une quantification des effets d’une annulation de la correction pour volatilité. Conséquences pour le groupeSi l’organisme utilisant ce dispositif appartient à un groupe, les comptes combinés ou consolidés du groupe s’établissent sur la base des comptes individuels après l’application de la mesure. Le groupe est soumis aux exigences de reporting relatives à l’utilisation de cette mesure.
+
+  
+    
+    Mis à jour le : 07/06/2018 15:12
+  
+  
+  
+
+                        
+                      
+                                            

@@ -1,0 +1,5 @@
+Question : Qu’est-ce que l’effet Dampener ?
+
+Réponse : L’effet Dampener est l’impact des fluctuations du marché action sur l'ajustement symétrique de l'exigence standard de capital pour actions défini par les articles R352-7 du code des assurances et 172 du règlement délégué.
+Cet ajustement couvre le risque découlant des variations de niveau du cours des actions et est fonction du niveau actuel d'un indice approprié du cours des actions et de la moyenne pondérée de cet indice. La moyenne pondérée est calculée sur une période de 36 mois.
+L'ajustement symétrique est compris entre -10% et +10%.

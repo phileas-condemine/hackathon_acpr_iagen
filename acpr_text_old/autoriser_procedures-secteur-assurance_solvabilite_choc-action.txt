@@ -1,0 +1,46 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Procédures secteur assurance
+Solvabilité
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Choc action                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Mesure transitoire sur le choc action
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Présentation de la mesureLe régime prudentiel Solvabilité II introduit pour les organismes d’assurance une exigence de capital (SCR) assise sur l’ensemble de leur profil de risque, y compris les risques financiers. En particulier, le risque de baisse de valeur des investissements en actions donne lieu à un "SCR actions".Quand il est calculé conformément à la formule standard, le "SCR actions" correspond à la perte de fonds propres de base qui résulterait d’une diminution soudaine de la valeur des actions détenues par l’organisme, à hauteur d’un pourcentage (ou "choc standard") défini réglementairement par catégorie d’actions.Pour disposer d’un temps d’adaptation avant d’appliquer pleinement les nouvelles dispositions et en lisser dans le temps les impacts financiers, les organismes d’assurance utilisant la formule standard bénéficient d’une mesure transitoire pour le calcul de leur "SCR actions". Cette mesure s’applique  à l’ensemble des actions acquises avant le 1er janvier 2016, par détention directe ou via des fonds d’investissement, qui ne font pas l’objet par ailleurs du calcul du risque sur actions fondé sur la durée de détention.Cette mesure transitoire consiste à calculer l’exigence de capital pour ce risque sur la base d’un choc de 22% la première année, ce niveau de choc progressant ensuite de manière au moins linéaire pour correspondre au choc standard de 39% plus ajustement symétrique (actions de type 1) ou 49% plus ajustement symétrique (actions de type 2) le 1er janvier 2023 au plus tard. En pratique, le choc à retenir s’écrit donc : (1 – a) × 22% + a × [39% ou 49% + ajustement symétrique], a valant 0% la première année de la transitoire (toute l’année 2016), et 100% à la fin de la transitoire, à compter du 1er janvier 2023.La mesure transitoire sur le choc actions s’applique en principe par défaut et impose à l’organisme de mettre en œuvre certaines mesures d’organisation (voir ci-après). Il est toutefois admis que les organismes ne souhaitant pas utiliser ce dispositif peuvent utiliser le choc standard dès 2016. Dans ces cas, ils ne sont pas soumis à ces conditions d’application. Références réglementairesLa mesure transitoire sur le risque actions est définie au II de l’article R. 352-27du Code des assurances, applicable aux organismes relevant des trois codes, qui transpose le 13e point de l’article 308 ter de la Directive 2009/138/CE , dite "Solvabilité II". Elle , et est précisée par l’article 173 du règlement délégué (UE) n°2015/35, dit "niveau 2", dans sa version modifiée du 30/09/2015.Les actions de "type 1" et de "type 2" sont définies à l’article 168 du règlement délégué. Le niveau de choc "standard" y est défini à l’article 169 et le niveau de choc "atténué" à l’article 170. L’ajustement symétrique y est défini à l’article 172.Les exigences d’organisation pour les organismes utilisant la mesure transitoire sont définies dans le projet de norme technique d’exécution ou "ITS" relative à la transitoire du calcul du risque sur actions (disponible, dans sa version provisoire, sur le site internet de l’EIOPA). Procédure d’autorisationL’application de la mesure transitoire sur le choc actions n’est pas soumise à autorisation préalable de l’ACPR. Conditions d’applicationsCette mesure transitoire ne s’applique qu’aux actions remplissant les conditions suivantes :acquises directement par l’organisme au plus tard le 1er janvier 2016, ou indirectement lorsque l’organisme a réalisé un investissement au plus tard le 1er janvier 2016 dans des actions de sociétés d’investissement à capital variable ou des parts fonds communs de placement ;ne faisant pas l’objet d’un calcul du risque sur actions fondé sur la durée de détention.Les organismes utilisant la mesure doivent en outre mettre en œuvre des mesures d’organisation visant à :formaliser la liste des actions remplissant les conditions et savoir les identifier à chaque calcul du SCR bénéficiant de la mesure transitoire ;conserver les preuves de la date d’achat de ces actions aussi longtemps que la mesure transitoire est utilisée ;fournir ces preuves à l’ACPR sur demande. Conséquences pour les groupes d’assuranceSi l’organisme utilisant ce dispositif appartient à un groupe, le calcul du risque actions sur ce portefeuille au niveau combiné ou consolidé s’effectue en tenant compte du dispositif.
+
+  
+    
+    Mis à jour le : 07/06/2018 15:12
+  
+  
+  
+
+                        
+                      
+                                            

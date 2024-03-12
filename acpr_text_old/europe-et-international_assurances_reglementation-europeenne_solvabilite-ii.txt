@@ -1,0 +1,178 @@
+
+                      
+
+                                                  
+                            Vous êtes iciInternational                                                                                              
+Assurances
+Réglementation européenne
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Solvabilité II                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Entré en application le 1er janvier 2016, Solvabilité II est un ensemble de règles fixant le régime de solvabilité applicables aux entreprises d’assurances dans l’Union européenne.
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Les règles prudentielles de Solvabilité II répartissent en 3 Piliers les exigences applicables aux entreprises d’assurance :
+
+  
+
+
+
+  
+    
+    
+    Pilier 1 - Les exigences quantitatives  
+  
+    Le pilier I de Solvabilité II regroupe les exigences quantitatives, c'est-à-dire les règles de valorisation des actifs et des passifs, ainsi que les exigences de capital et leur mode de calcul. Les exigences de capital peuvent être calculées au moyen de la Formule Standard, ou au moyen d’un modèle interne complet ou partiel. Enfin, les organismes peuvent demander différentes autorisations touchant aux exigences quantitatives.Les exigences quantitativesLes modèles internes  
+
+
+
+  
+    
+    
+    Pilier 2 - Les exigences qualitatives  
+  
+    Le pilier II de Solvabilité II regroupe d’une part les exigences qualitatives, en premier lieu les règles de gouvernance et de gestion des risques, et d’autre part l’évaluation propre des risques de la solvabilité (Own Risk and Solvency Assessment - ORSA).La gouvernance dans Solvabilité IIL’ORSA  
+
+
+
+  
+    
+    
+    Pilier 3 – les informations à destination du public et du superviseur  
+  
+    Le pilier 3 de Solvabilité II concerne la communication d’informations au public et aux autorités de contrôle. Il vise à harmoniser au niveau européen les informations publiées par les organismes d’assurance ainsi que celles remises aux superviseurs. Ces informations, à la fois quantitatives et qualitatives, sont à remettre à une fréquence annuelle et, pour certaines, trimestrielles. Des conditions d’exemption sont néanmoins prévues et décrite dans une page dédiée. En compléments des états et rapports européens, des éléments français spécifiques sont également demandés (voir ci-dessous). Enfin, les données quantitatives devront être remises au format XBRL.Le reporting Solvabilité IILa remise d’information trimestrielleLes exigences nationales complémentairesLe format de communication des informations Solvabilité IICommunication d’informations narratives Solvabilité IIModalité nationale de présentation de certaines informations à remettre au superviseur   
+
+
+
+  Les dispositions établissant ces exigences sont réparties en 3 niveaux : les textes dits de niveau 1 fixent des principes généraux, dont les conditions d’application sont précisées par des textes et normes de niveau 2 et 3.
+
+  
+
+
+
+  
+    
+    
+    Textes de niveau 1: directive 2009/138/CE (« directive Solvabilité II) modifiée par la directive 2014/51/UE (directive  Omnibus 2).  
+  
+    La directive Solvabilité II Publiée le 25 novembre 2009, la directive Solvabilité II prévoit les grands principes du régime prudentiel applicable aux entreprises d’assurance. La directive Omnibus II Publiée le 16 avril 2014, la directive Omnibus II a amendé la directive Solvabilité II sur de plusieurs points, notamment en y introduisant les prérogatives de l ‘EIOPA et en modifiant les règles du pilier 1 relative à la courbe des taux.Les changements apportés par Omnibus II sont décrits dans un focus dédié de l’ACPR :Focus Omnibus 2Une version consolidée de la Solvabilité II, établie par la Commission à titre de document de travail, est disponible, comme les autres textes européens définitifs, sur la page "Textes réglementaires " du site e-SURFI Assurance. La transposition en droit national Les directives Solvabilité II et Omnibus II ont été transposées en droit national par l’ordonnance n°2015-378 du 2 avril 2015 et le décret n°2015-513 du 7 mai 2015.  
+
+
+
+  
+    
+    
+    Textes de niveau 2 : règlement délégué de la Commission européenne et normes techniques réglementaires.  
+  
+    Le niveau 2 de Solvabilité II est constitué par le règlement délégué du 10 octobre 2014, adopté par la Commission européenne. En tant que règlement européen, ce texte est d’application directe et ne nécessite pas de transposition dans les textes de loi nationaux.Règlement délégué (UE) 2015/35 de la Commission du 10 octobre 2014Une note pédagogique présente les évolutions de la version finale par rapport au projet publié en novembre 2011 :Présentation du règlement délégué de la Commission européenne  
+
+
+
+  
+    
+    
+    Textes de niveau 3 : normes techniques d’exécution et orientations de l’EIOPA pour son acronyme anglais.  
+  
+    La directive et le règlement délégué sont complétés par deux types de textes de niveau 3. Les normes techniques d’exécution Les normes techniques d’exécution (Implementation Technical Standards – ITS) sont proposées par l’EIOPA puis adoptés par la Commission européenne. Elles sont d’application directe. La liste des ITS approuvés par la Commission européenne incluant les liens vers le texte des ITS est disponible à ce lien :Liste des ITS Les orientations Les orientations (ou guidelines en anglais) sont adoptées par l’EIOPA puis, au sein de chaque autorité nationale, soumises à une procédure dite de comply or explain, selon laquelle les autorités nationales doivent mettre en œuvre ces orientations pour leur marché, ou expliquer à l’EIOPA pourquoi elles ne le font pas.L’EIOPA publie les orientations en français sur  son site :Liste des orientations de l’EIOPALes orientations auxquelles le collège de l’ACPR a choisi de se conformer sont indiquées sur une page dédiée :Comply or Explain ACPR  
+
+
+
+  
+    
+    
+    Groupes d'assurance  
+  
+    Les exigences applicables aux entreprises d’assurance sur base individuelle sont complétées par dispositions relatives aux groupes d’assurance. Pour plus de détails, consulter la page ci-dessous :Contrôle des groupes d’assurance dans Solvabilité II  
+
+
+
+  Les documents réglementaires finalisés sont disponibles sur la page "Textes réglementaires" du site e-SURFI Assurance.
+
+  
+    
+  
+  
+  
+    
+    
+  
+
+        
+  
+          
+                  ACPR
+                      
+    
+    
+        Reporting
+    
+    
+    
+            
+    Consulter   
+
+
+
+  
+  
+
+  
+    
+  
+  
+  
+    
+    
+  
+
+        
+  
+          
+                  ACPR
+                      
+    
+    
+        Archives - préparation à Solvabilité II
+    
+    
+            La mise en place de Solvabilité II a donné lieu à divers travaux...
+    
+            
+    Consulter   
+
+
+
+  
+  
+
+  
+    
+    Mis à jour le : 19/03/2019 15:41
+  
+  
+  
+
+                        
+                      
+                                            

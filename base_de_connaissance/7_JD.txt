@@ -1,0 +1,6 @@
+Question : Comment est calculée la marge de risque ?
+
+Réponse : D’après l’article 37 du règlement délégué, la marge de risque est calculée comme la somme actualisée des SCR multipliée par le coût du capital fixé d’après l’article 39 à 6%.
+En application du principe de proportionnalité introduit par l’article 56 du règlement délégué, les organismes peuvent selon l’article 58 employer une méthode simplifiée.
+D’après la notice solvabilité II sur les provisions techniques de l’ACPR, il existe 4 méthodes simplifiées :
+La première consiste à approximer les risques au sein des modules employés dans le calcul des SCR futurs. La deuxième consiste à remplacer les SCR futurs par le SCR actuelle multiplié par le ratio du BE futur sur le BE actuel. La troisième méthode remplace la somme actualisée par la duration modifiée des passifs qui est alors employé comme facteur de proportionnalité au SCR actuel. Enfin la quatrième méthode consiste à calculer la marge de risque comme pourcentage du BE.

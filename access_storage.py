@@ -5,7 +5,7 @@ import os
 connect_str = "AzureConnexion"
 
 # Nom de votre conteneur
-container_name = 'equipe-1'
+container_name = 'equipe-6'
 
 
 # Chemin local où vous souhaitez sauvegarder le fichier téléchargé

@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+acpr_html/
+acpr_text/
+config.py
+__pycache__/

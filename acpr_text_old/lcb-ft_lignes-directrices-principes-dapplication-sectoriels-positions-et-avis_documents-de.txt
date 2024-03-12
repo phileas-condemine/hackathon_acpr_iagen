@@ -1,0 +1,80 @@
+
+                      
+
+                                                  
+                            Vous êtes iciLCB-FT
+Lignes directrices, principes d'application sectoriels, positions et avis
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Documents de nature explicative spécifiques aux secteurs bancaire, assurantiel et des crypto-actifs                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+        PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  
+
+
+  
+    
+    
+    Documents de nature explicative spécifiques au secteur bancaire	  
+  
+    Principes d’application sectoriels de l’ACPR relatifs aux obligations de lutte contre le blanchiment de capitaux et le financement du terrorisme dans le cadre du droit au compte Principes d'application sectoriels sur la correspondance bancaire Orientations des autorités européennes de surveillance relatives aux transferts de fonds (en annexe, l'avis de conformité) Position de l’ACPR relative aux opérations sur Bitcoins en France (29/01/2014)   
+
+
+
+  
+
+
+  
+    
+    
+    Documents de nature explicative spécifiques au secteur assurantiel  
+  
+    Principes d’application sectoriels de l’Autorité de contrôle prudentiel et de résolution relatifs à la lutte contre le blanchiment de capitaux et le financement du terrorisme pour le secteur des assurances (en cours de révision)Les thèmes 3, 4 et 5 de ces principes d’application sectoriels sont caducs (cf. lignes directrices relatives à l’identification, la vérification de l’identité et la connaissance de la clientèle)  
+
+
+
+  
+
+
+  
+    
+    
+    Documents de nature explicative spécifiques au secteur des crypto-actifs  
+  
+    Position 2014-P-01 de l’ACPR relative aux opérations sur bitcoins en FrancePrincipes d’application sectoriels relatifs aux prestataires de services sur actifs numériques (PSAN) L’ACPR publie à l’attention des prestataires de services sur actifs numériques (PSAN) des principes d’application sectoriels qui rappellent et expliquent la réglementation qui leur est applicable en matière de lutte contre le blanchiment et le financement du terrorisme (LCB-FT). Ce document enrichit la description des bonnes pratiques déjà publiées en juillet 2021 dans la Revue de l’ACPR, notamment grâce aux enseignements des contrôles menés par l’ACPR.Il rappelle que les PSAN appliquent les lignes directrices en matière de LCB-FT déjà publiées par l’ACPR et apporte des précisions nécessaires compte tenu de la spécificité des actifs numériques, en particulier :évaluation et classification des risques : le projet précise la liste des documents pris en compte par les PSAN lorsqu’ils doivent identifier, évaluer et classer les risques de BC-FT auxquels leur activité les expose. Un tableau présente également les facteurs de risques propres aux actifs numériques ;connaissance de la clientèle et surveillance des opérations : les principes d’application sectoriels précisent les modalités de vigilance constante sur les flux en actifs numériques, en particulier en ce qui concerne le recours aux outils d’analyse transactionnelle (OAT) de la blockchain qui permettent d’avoir une meilleure traçabilité sur ces flux. Le document détaille également les vigilances à mettre en œuvre dans le cadre d’opérations impliquant des actifs numériques à anonymat renforcé (anonymity-enhanced cryptocurrencies, privacy coins) ou en cas de rançongiciel ;                       déclaration de soupçon : le document précise les données devant figurer dans les déclarations de soupçon envoyées à Tracfin, notamment les éléments relatifs à la nature des actifs numériques concernés (blockchain pertinente, adresse publique du client, extraits d’analyse obtenue par l’OAT, etc.) ;gel des avoirs : les principes d’application sectoriels clarifient les modalités concrètes de mise en œuvre de mesures de gel d’un wallet. Dans le contexte des mesures décidées par l’Union européenne dans le cadre du conflit ukrainien, un tableau précise les critères d’alerte de tentative de violation ou de contournement de mesures restrictives au moyen d’actifs numériques.Rédigé en étroite collaboration avec la Direction générale du Trésor et Tracfin, ce document a donné lieu à une étroite concertation avec les professionnels concernés, notamment au sein de la Commission Consultative LCB-FT de l’ACPR.   
+
+
+
+
+
+  
+    
+    Mis à jour le : 09/12/2022 11:34
+  
+  
+  
+
+                        
+                      
+                                            

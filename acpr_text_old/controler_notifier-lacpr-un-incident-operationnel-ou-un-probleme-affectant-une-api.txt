@@ -1,0 +1,81 @@
+
+                      
+
+                                                  
+                            Vous êtes iciContrôler
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Notifier à l’ACPR un incident opérationnel ou un problème affectant une API                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+        PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Dans le cadre de son dispositif de gestion de crise et afin d’assurer un traitement plus efficace des éventuels incidents cyber, l’ACPR souhaite recueillir de la part des entreprises placées sous sa supervision prudentielle les informations requises sous la forme d’un formulaire. La notification à l’ACPR est attendue à titre initial sous 24 heures après découverte de l’incident, puis de manière actualisée dans les 7 jours suivant la notification initiale, et enfin, post-mortem, dans le mois suivant sa résolution complète. Le formulaire peut être adressé par dépôt sur l’espace Sharebox dédié aux échanges dans le cadre du Protocole de gestion de crise Cyber ou par mail aux interlocuteurs habituels de l’entité en chiffrant la pièce jointe pour la sécuriser.Par ailleurs, sans préjudice des obligations de notification des incidents opérationnels, la règlementation DSP2 impose des obligations de notification des problèmes affectant le fonctionnement des interfaces dites « API ». L’ACPR a publié l’Instruction n° 2023-I-04 par laquelle elle définit les informations attendues et les modalités de transmission de ces notifications.
+
+  
+
+
+  
+    
+    
+    Notifier un incident opérationnel de cybersécurité  
+  
+    Les établissements du secteur bancaire et les organismes d’assurance et de réassurance (qui seront appelés « entreprises » ci-dessous) doivent porter une attention particulière aux incidents opérationnels ou de sécurité susceptibles d’affecter leur système d’information, non seulement pour hâter leur détection et leur résolution, mais aussi pour adapter les environnements de contrôle destinés à les prévenir. Pour mémoire, les réglementations prudentielles applicables aux deux secteurs imposent aux entreprises des obligations de suivi et de reporting de ces incidents, qui relèvent plus généralement du risque opérationnel :Dans le secteur de la banque, l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de la banque, des services de paiement et des services d'investissement prévoit en particulier que les établissements se dotent de critères et de seuils pour identifier les incidents jugés « significatifs ou majeurs » (article 98), informent « sans délai » leurs instances dirigeantes de tels incidents (article 245), ainsi que l’Autorité de contrôle prudentiel et de résolution – ACPR - (article 249). Par ailleurs et de surcroît, les incidents dits « majeurs » affectant les services de paiement (article L. 521-10 du code monétaire et financier), qu’ils aient trait ou non au système d’information, doivent être déclarés « sans retard injustifié » à l’ACPR, lorsqu’ils sont de nature opérationnelle, et à la Banque de France, lorsqu’ils sont liés à la sécurité. Dans le secteur de l’assurance, les organismes doivent se doter d’un système de gouvernance, d’un système de gestion des risques et d’un système de contrôle interne. Les principales exigences en la matière sont définies dans les articles suivants : article L. 354-1 à L. 354-3 du Code des assurances, l’article R. 354-4 du Code des assurances et les articles 258, 260 et 266 et suivants du règlement délégué 2015/35. Parmi les risques à prendre en compte au sein de ces dispositifs, figure le risque opérationnel, tel que défini à l’article R. 352-1 du Code des assurances, qui intègre de facto les incidents informatiques. En vertu de l’article 258 précité, paragraphe 1 alinéa (k), dans le cadre de ces dispositifs, les organismes d’assurance doivent instaurer des lignes de reporting claires, garantissant la transmission rapide des informations à toutes les personnes qui en ont besoin, d’une manière leur permettant de reconnaître l’importance de ces informations au regard de leurs responsabilités respectives.  A – Définition des incidents entrant dans le champ du protocole de gestion de crise cyber de l’ACPRParmi les incidents opérationnels et de sécurité affectant les systèmes d’information, ceux dits « de cybersécurité » requièrent une attention particulière, en raison de leur potentiel de perturbation et de contagion. Un incident cyber est un incident qui (définition issue du Cyber Lexicon du Financial Stability Board) :affecte défavorablement et met en danger la cybersécurité d’un système d’information ou les informations qu'il traite, stocke ou transmet ; ouenfreint les stratégies de sécurité, les procédures de sécurité ou les stratégies d'utilisation acceptables, que ces infractions résultent d'une activité malveillante ou non.Ainsi, les incidents découlant d’une ou de plusieurs actions malveillantes exploitant des dysfonctionnements, liés ou causés par une erreur ou une négligence, doivent également être déclarés dans le cadre du protocole. Pour mémoire, Les établissements de crédit dits "importants", soumis à la supervision prudentielle directe de la Banque centrale européenne (BCE), ne relèvent pas du présent protocole de gestion de crise cyber, propre à l’ACPR.  B – Moyens de déclaration de ces incidentsDans le cadre de son dispositif de gestion de crise et afin d’assurer un traitement plus efficace des éventuels incidents cyber, l’ACPR souhaite recueillir de la part des entreprises placées sous sa supervision prudentielle les informations requises sous la forme du formulaire de déclaration. Ce formulaire reste toutefois facultatif, afin de ne pas contraindre inutilement les entreprises qui ne disposeraient pas d’informations suffisantes pour le remplir. La déclaration d’un incident cyber au moyen de ce formulaire, au titre du protocole de gestion de crise ACPR, n’est pas nécessaire quand existent des obligations déclaratives auprès de l’ACPR. En particulier, les incidents dits « incident opérationnel majeur ou de sécurité majeur », au sens de l’article L. 521-10 du Code monétaire et financier et affectant un prestataire de services de paiement, doivent être obligatoirement notifiés via le formulaire spécifique de déclaration DSP2, qu’ils soient de nature informatique – cyber ou non. L’ACPR reçoit automatiquement par ailleurs ces déclarations DSP2. Dans ce cas, il n’est donc pas nécessaire de déclarer l’incident au titre du Protocole.  C – Typologie d’incidents à déclarerSont concernés les incidents « significatifs » (secteurs banque et assurance). La notion de situation à risque doit également être prise en compte. Ainsi, à titre indicatif, un incident sans impact mais pour lequel les systèmes concernés sont essentiels pour l’entreprise doit être déclaré. L’ACPR attend la notification de tout incident cyber dont la sévérité serait classée « grave » ou « critique » par l’entreprise, que ce soit au titre d’un domaine technique ou métier. L’entreprise exerce son jugement à la déclaration des incidents, en tenant compte notamment de la mise en place d’une cellule de crise en interne pour gérer l’incident. La notification à l’ACPR est attendue à titre initial sous 24 heures après découverte de l’incident, puis de manière actualisée dans les 7 jours suivant la notification initiale, et enfin, post-mortem, dans le mois suivant sa résolution complète.  
+
+
+
+  
+
+
+  
+    
+    
+    Notifier à l’ACPR un incident opérationnel ou de sécurité majeur (prestataires de services de paiement)  
+  
+    En application des dispositions de l’article L. 521-10 du code monétaire et financier les prestataires de services de paiement – établissements de crédit, établissements de paiement et établissements de monnaie électronique – notifient à l’ACPR et à la Banque de France les incidents opérationnels et de sécurité majeurs liés au services de paiement qu’ils fournissent qui répondent aux critères définis par les orientations de l’Autorité bancaire européenne EBA/GL/2017/10 et selon les modalités précisées par ces mêmes orientations. Établies en utilisant l’annexe 1 des orientations EBA/GL/2017/10 les notifications d’incidents devront être adressées à l’ACPR et à la Banque de France conformément aux indications accessibles via ce lien.  
+
+
+
+  
+
+
+  
+    
+    
+    Notifier à l’ACPR les problèmes rencontrés dans l’utilisation d’une interface dédiée (API DSP2)  
+  
+    La seconde directive 2015/2366 du 25 novembre 2015 relative aux services de paiement dans le marché intérieur (DSP2) actualise le cadre règlementaire des paiements en Europe en renforçant le niveau de sécurité des paiements électroniques et la protection des clients, tout en encadrant la fourniture de deux nouveaux services de paiement, à savoir les services d’initiation de paiement et les services d’information sur les comptes. De la DSP2 découlent plusieurs obligations pour les Prestataires de Services de Paiements (PSP), notamment celle de l’accès aux données des comptes de paiement des clients des prestataires de services de paiement gestionnaires de comptes (PSPGC) pour les nouveaux prestataires de services de paiement tiers (PSIC, PSIP et PSP émetteurs d’instruments liés à une carte) par un canal de communication sécurisé (art. 98 de la DSP2). Le règlement délégué (UE) 2018/389 sur l’authentification forte du client et les normes ouvertes communes et sécurisées de communication, dit « RTS sécurité » prévoit certaines obligations de notification relative à ces interfaces d’accès aux comptes, parmi lesquelles la notification de problèmes liés aux interfaces dédiées (article 33(3)). Pour la France, cette notification est effectuée par les prestataires de services de paiements mentionnés à l’article 30 du RTS Sécurité (PSPGC, PSIC, PSIP) auprès de l’ACPR, selon des modalités prévues par l’Instruction n° 2023-I-04 relative aux informations à notifier à l’Autorité de contrôle prudentiel et de résolution lors de problèmes rencontrés dans l’utilisation d’une interface dite « API » mise à disposition par les prestataires de services de paiement gestionnaires de comptes. Conformément à cette instruction, les prestataires de services de paiement mentionnés à l’article 30 du règlement délégué (UE) 2018/389 notifient les problèmes liés aux interfaces dédiées, en remplissant le questionnaire annexé à la présente instruction. Ce formulaire ainsi que les éventuelles pièces justificatives associées doivent être communiqués à l’adresse mail suivante : 2750-Notification_API_DSP2-UT@acpr.banque-france.fr.  
+
+
+
+
+
+  
+    
+    Mis à jour le : 19/12/2023 18:45
+  
+  
+  
+
+                        
+                      
+                                            

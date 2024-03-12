@@ -1,0 +1,100 @@
+
+                      
+
+                                                  
+                            Vous êtes iciInternational                                                                                              
+Assurances
+Réglementation européenne
+Solvabilité II
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            La remise d’information trimestrielle                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Les exemptions de remise d’information trimestrielle
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  La directive Solvabilité II prévoit, en complément de la remise d’information à l’Autorité de contrôle sur une base annuelle, des remises trimestrielles concernant un périmètre d’états quantitatifs réduit, pour les organismes individuels et les groupes.Les remises trimestrielles Solvabilité II sont composées, pour les organismes individuels, des états quantitatifs suivants : bilan, fonds propres, MCR, provisions techniques (vision synthétique), activité (primes, sinistres, frais), état détaillé des actifs, des dérivés et état sur la mise en transparence des fonds d’investissement.Pour les groupes, les états quantitatifs à remettre sur base trimestrielle sont les suivants : bilan, fonds propres, activité (primes, sinistres, frais), état détaillé des actifs, des dérivés et état sur la mise en transparence des fonds d’investissement.Ces exigences de remises trimestrielles s’imposent par principe à l’ensemble des organismes mais sont assorties de possibilités d’exemption, à l’exception de l’état relatif au MCR, dont le calcul et le reporting trimestriels s’imposent à tous les organismes (article 129 de la directive).
+
+  
+
+
+
+  
+    
+    
+    Conditions d’exemption des entités individuelles  
+  
+    La directive Solvabilité II, telle que modifiée par Omnibus II (article 35), prévoit la possibilité, pour les autorités de contrôle, d’exempter certains organismes de remises trimestrielles lorsque : a) la fourniture de ces informations représenterait une charge disproportionnée compte tenu de la nature, de l'ampleur et de la complexité des risques inhérents à l'activité de l'entreprise; b) ces informations sont communiquées au moins une fois par an. La deuxième condition est toujours remplie, le champ des informations trimestrielles étant un sous-ensemble des informations annuelles. La directive précise toutefois que la population exemptée ne peut dépasser plus de 20% de part de marché (article 35) : La limitation de la communication régulière des informations à des fins de contrôle n'est permise qu'aux entreprises qui ne représentent pas plus de 20 %, respectivement, du marché d'assurance ou de réassurance vie et non-vie d'un État membre, lorsque la part de marché "vie" repose sur des primes brutes émises et que la part de marché "non-vie" repose sur des provisions techniques brutes. Les autorités de contrôle donnent priorité aux plus petites entreprises lorsqu'elles déterminent l'éligibilité de ces entreprises à ces limitations. Par ailleurs, la Banque Centrale Européenne (BCE) a, dans le cadre du lancement des exercices visant à établir un projet de règlement sur les statistiques européennes en matière d’assurance, indiqué dès 2012 son souhait de collecter des informations sur base annuelle et trimestrielle en s’appuyant autant que possible sur les états prudentiels Solvabilité II. De fait, la BCE a aligné dans un règlement du 28 novembre 2014 ses exigences de couverture en base trimestrielle sur celles prévues dans la directive : https://www.ecb.europa.eu/ecb/legal/pdf/en_reg_2014_50_sign.pdf L’ACPR a choisi des seuils uniques à la fois pour les exigences de la directive Solvabilité II et pour celles de la BCE. Ces seuils sont exprimés en taille de bilan pour une meilleure lisibilité par le marché. À partir des données comptables du marché à fin 2013, les seuils applicables au marché français sont les suivants :Seuil vie : 8 milliards d’euros de bilan ;Seuil non vie : 0,5 milliard d’euros de bilan ;Seuil réassurance : 4 milliards d’euros de bilan. Les termes « vie », « non vie » et « réassurance » sont à entendre au sens des agréments. Les entités et les groupes mixtes dont le total de bilan est supérieur à 8 milliards d’euros appliquent le seuil vie. Les entités et les groupes mixtes dont le total de bilan est inférieur à 8 milliards d’euros appliquent le seuil non vie à la part de leur bilan correspondant à l’activité non vie. La formule à appliquer est la suivante : exemption si (Provisions techniques non vie/provisions techniques totales)*total bilan < 0.5 milliards d’euros. Ces seuils sont d’application automatique, les entités individuelles les respectant sont exemptées de reporting trimestriel (hormis le MCR) sans avoir besoin d’en faire la demande auprès de l’ACPR. Ces seuils seront mis en œuvre par une instruction de l’ACPR, mais sont présentés dès à présent au marché afin que les organismes potentiellement concernés par la remise d’information trimestrielle puissent démarrer au plus tôt leur préparation. La pertinence de ces seuils sera régulièrement vérifiée et communiquée au marché. Les données à prendre en compte lors de l’application des seuils de bilan sont les données prudentielles, donc le bilan établi conformément aux principes Solvabilité II.  
+
+
+
+  
+    
+    
+    Conditions d’exemption des organismes appartenant à un groupe et des groupes  
+  
+    Deux dispositions de Solvabilité II régissent les conditions d’exemption de la remise d’information trimestrielle par les groupes et les organismes qui les composent. 1) L’article 35 de la directive Solvabilité II, tel que modifié par la directive Omnibus 2, dispose que les entités faisant partie d’un groupe sont soumises aux exigences de remise d’information trimestrielle. Des exemptions au cas par cas sont toutefois possibles : « Lorsque la communication d'informations a lieu plus d'une fois par an, les autorités de contrôle ne limitent pas la communication régulière des informations à des fins de contrôle pour les entreprises d'assurance ou de réassurance faisant partie d'un groupe au sens de l'article 212, paragraphe 1, point c), sauf si l'entreprise concernée peut démontrer à l'autorité de contrôle que le fait de communiquer régulièrement des informations à des fins de contrôle à une fréquence supérieure à une fois par an n'est pas approprié, compte tenu de la nature, de l'ampleur et de la complexité des risques inhérents à l'activité du groupe. » 2) Par ailleurs, l’article 254 de la directive Solvabilité II dispose que le contrôleur du groupe peut limiter la remise d’information trimestrielle au niveau consolidé ou combiné dès lors que toutes les entités du groupe bénéficient d’une exemption au niveau individuel et eu égard à la nature, à l'ampleur et à la complexité des risques inhérents à l'activité du groupe : « Le contrôleur du groupe peut limiter la communication régulière des informations à des fins de contrôle d'une fréquence inférieure à un an au niveau du groupe dès lors que toutes les entreprises d'assurance ou de réassurance du groupe bénéficient de la limitation conformément à l'article 35, paragraphe 6, eu égard à la nature, à l'ampleur et à la complexité des risques inhérents à l'activité du groupe. » L’ACPR a mis en œuvre ces dispositions par instruction selon les modalités suivantes : Lorsque le total de bilan consolidé ou combiné du groupe est inférieur aux seuils forfaitaires décrits ci-dessus, le groupe et l’ensemble des entités qui lui appartiennent sont exemptés automatiquement de remise trimestrielle au niveau individuel et consolidé ou combiné. Lorsque le total de bilan consolidé ou combiné du groupe est supérieur aux seuils forfaitaires, le groupe est soumis à la remise trimestrielle pour les informations consolidées/combinées. Si, au sein de ce groupe, des entités individuelles ont un bilan en-dessous des seuils, celles-ci peuvent toutefois être exemptées de remise trimestrielle, sur accord de l’ACPR et si les deux conditions suivantes sont remplies : l’entité en question représente moins de 5% du bilan consolidé ou combiné ;l’ensemble des entités exemptées ne représente pas plus de 15% du bilan consolidé ou combiné. Les entités les moins contributrices sont exemptées prioritairement. Lorsque certaines entités d’un groupe sont exemptées de remise trimestrielle, ceci concerne uniquement les états sur base individuelle : elles restent incluses dans le périmètre de consolidation/combinaison pour les données remises dans les états trimestriels au niveau du groupe.  
+
+
+
+  
+    
+    
+    Mécanisme de stabilisation des populations exemptées  
+  
+    Afin de stabiliser la population exemptée et de permettre aux organismes dont la taille de bilan augmente d’anticiper la mise en œuvre du reporting trimestriel, les conditions d’exemption présentées ci-dessus doivent être vérifiées pendant trois exercices consécutifs pour qu’un organisme soit exempté à partir du premier trimestre du quatrième exercice. De même, un organisme ne sera soumis au reporting trimestriel que si son bilan a été au-dessus des seuils pendant trois exercices consécutifs. Il devra alors remettre des états trimestriels au premier trimestre du quatrième exercice.NN+1N+2N+3 EntréeBilan > seuilBilan > seuilBilan > seuilApplication T1SortieBilan < seuilBilan < seuilBilan < seuilPas de reporting trimestriel   
+
+
+
+  
+    
+    
+    Date d’application et dispositions transitoires   
+  
+    Les dispositions décrites s’appliquent à compter du 1er janvier 2016.La décision de l’Autorité de contrôle prudentiel et résolution ne pouvant être notifiée aux organismes qu’en 2016, il est proposé de procéder à des exemptions de manière automatique et temporaire sur l’année 2016 comme suit :tous les organismes dont la taille de bilan est en-dessous des seuils prévus seront exemptés d’office, qu’ils appartiennent ou non à un groupe ;dans le cas d’un groupe atteignant les seuils sur son bilan total, si l’ensemble des organismes le composant n’atteignent pas ces seuils à titre individuel, le groupe et l’ensemble des organismes le composant sont exemptés.Pour les organismes appartenant à des groupes, les demandes d’exemption, pour les entités éligibles, sont à déposer en 2016 pour une application à partir du 1er trimestre 2017.Les délais pour le dépôt des demandes et leur traitement par l’ACPR seront précisés dans le cadre de la transposition de Solvabilité II.En outre, des dispositions pratiques ont été prises de manière transitoire pour la mise en œuvre du dispositif :pour les dates d’arrêté antérieures à 2016, le bilan de référence est le bilan comptable auquel sont ajoutées les plus-values latentes ou les moins-values latentes ne faisant pas déjà l’objet d’une provision ;en outre, afin d’anticiper au mieux la première année d’application du reporting trimestriel, les arrêtés 2012, 2013 et 2014 seront utilisés comme référence pour déterminer les exemptions applicables en 2016. Les organismes pourront donc déterminer leur assujettissement a à la remise trimestrielle en 2016 dès 2015.  
+
+
+
+  
+    
+    
+    Schémas récapitulatifs  
+  
+    Le schéma ci-dessous permet de récapituler les différentes modalités d’exemption de la remise d’information trimestrielle, tant sur base individuelle que sur base consolidée.Organismes n’appartenant pas à un groupe (ensemble des organismes individuels sur la période transitoire 2015 - 2016)Organismes appartenant à un groupe et groupes 
+    
+    
+
+ Les documents réglementaires finalisés sont disponibles sur la page « Textes réglementaires » du site e-SURFI Assurance  
+
+
+
+  
+    
+    Mis à jour le : 07/06/2018 15:09
+  
+  
+  
+
+                        
+                      
+                                            

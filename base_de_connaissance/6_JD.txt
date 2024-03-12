@@ -1,0 +1,4 @@
+Question : Comment sont calculés les fonds propres prudentielles ?
+
+Réponse : D’après l’articles R351-18 du code des assurances, les fonds propres prudentiels sont constitués de l’excédent des actifs par rapport aux passifs prudentiels auxquels sont retirés les actions propres, les passifs subordonnés et les fonds propres auxiliaires hors bilan.
+Les fonds propres auxiliaires sont constitués d’après l’article R351-19 du code des assurances d'éléments, autres que les fonds propres de base, qui peuvent être appelés pour absorber des pertes.

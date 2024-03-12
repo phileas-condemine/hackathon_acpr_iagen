@@ -1,0 +1,46 @@
+
+                      
+
+                                                  
+                            Vous êtes iciAutoriser
+Procédures secteur assurance
+Solvabilité
+
+                                                  
+                                                        
+                                                  
+                                                                                
+                                                                                            Paramètres propres                                                                                        
+                                                                                                          
+
+    
+  
+    
+
+
+        
+    Utilisation de paramètres propres "USP"
+    PartagerImprimer
+Envoyer par mail
+PartagerFacebook
+Twitter
+LinkedIn
+
+      
+    
+        
+            
+
+  
+  Présentation de la mesurePour le calcul de leur exigence de capital réglementaire, les organismes ou groupes d’assurance peuvent dans certains cas utiliser des paramètres qui leur sont propres en remplacement des paramètres de la formule standard. Ces paramètres sont appelés couramment USP (Undertaking specific parameters en anglais), ou bien GSP (Group specific parameters) quand ils sont appliqués au niveau d’un groupe pour le calcul de l’exigence de capital sur base combinée ou consolidée.Les paramètres pouvant ainsi être personnalisés sont définis par la règlementation ; ils ne portent que sur le calcul de certains risques de souscription, à la maille du segment comprenant pour chaque ligne d’activité visée les affaires directes et acceptées proportionnellement. .L’utilisation par un organisme ou groupe d’assurance de paramètres spécifiques pour le calcul de l’exigence en capital est soumise à autorisation préalable de l’ACPR. Références réglementairesL’utilisation de paramètres spécifiques est définie, pour les organismes et pour les groupes, respectivement au V de l’article R. 352-5 et au neuvième alinéa du II de l’article R. 356-19 du code des assurances, applicables aux organismes et groupes relevant des trois codes, qui transposent l’article 104 (7) de la Directive 2009/138/CE, dite « Solvabilité II ». Ces dispositions sont complétées par les articles 218 à 220 et l’annexe XVII, ainsi que l’article 338 pour les groupes, du règlement délégué (UE) n°2015/35 dit « niveau 2 ».Enfin, le contenu du dossier de candidature et les différentes étapes de la procédure d’approbation sont précisés par le règlement d’exécution (UE) 2015/498 établissant des normes techniques d’exécution ou « ITS » en ce qui concerne la procédure d’approbation par les Autorités de contrôle de l’utilisation de paramètres propres à l’entreprise. Contenu du dossier de candidatureLe contenu minimum du dossier de candidature est défini à l’article 1 du règlement d’exécution mentionné ci-avant.De manière synthétique, le dossier devra contenir les éléments suivants :une lettre formelle de candidature précisant la date d’utilisation souhaitée, la liste exhaustive des paramètres que l’organisme souhaite modifier dans la formule standard avec leur nouvelle valeur à la date d’utilisation, et la méthode utilisée lorsqu’il s’agit d’un écart-type de risque de provisions ;une note justifiant, segment par segment, que le choix de l’organisme ou du groupe d’utiliser ou non des USP ou GSPet les méthodes associées est pertinent eu égard au profil de risque de l’organisme ou du groupe, y compris pour les segments non concernés par la candidature ;les fichiers de calcul permettant de reproduire le calcul contenant, paramètre par paramètre, les données utilisées, les démarches de calculs effectuées conformément aux méthodes réglementaires, et la valeur des nouveaux paramètres obtenus après calcul ;la documentation démontrant la satisfaction des exigences de qualité des données stipulées aux articles 19 et 219 du règlement délégué ainsi qu’à son annexe XVII. En particulier, le dossier de candidature devra comporter :les éléments du point e) de l’article 219 du règlement délégué intégrant un répertoire des données listées à l’annexe XVII ;une description de la gouvernance autour de la qualité des données (comitologie éventuelle, dispositif de contrôle interne, processus de validation, etc.) ;les plans d’amélioration de la qualité des données dont l’évaluation n’a pas atteint les critères requis. Délivrance de l’autorisationLes dossiers doivent être transmis par voie postale à l’adresse ci-après, et parallèlement par voie électronique à la brigade de contrôle en charge de l’organisme ou du groupe :Secrétariat général de l’Autorité de contrôle prudentiel et de résolutionBrigade de contrôle des organismes d’assurance75436 Paris Cedex 09L’ACPR se prononcera sur l’autorisation de l’utilisation totale ou partielle de paramètres spécifiques dans un délai maximal de 6 mois à compter de la date de réception du dossier complet. Conséquences pour le groupeL’utilisation de paramètres spécifiques pour le calcul de la solvabilité au niveau individuel par un organisme et sur base consolidée ou combinée par un groupe sont deux mesures distinctes et indépendantes sur le plan administratif.Un groupe calculant son exigence de capital réglementaire sur la base des comptes consolidés ou combinés ne peut tenir compte d’aucun paramètre spécifique approuvé au niveau d’un organisme pris individuellement. Si le groupe souhaite lui aussi utiliser des paramètres spécifiques, il est tenu d’en solliciter préalablement l’autorisation à l’ACPR, en tenant compte de son profil de risque pour l’ensemble de son périmètre, selon la même procédure que pour un organisme pris individuellement.De même, l’autorisation accordée à un groupe d’utiliser des paramètres spécifiques pour le calcul de sa solvabilité ajustée ne vaut pas autorisation pour les organismes membres du groupe pris individuellement.
+
+  
+    
+    Mis à jour le : 07/06/2018 15:11
+  
+  
+  
+
+                        
+                      
+                                            
